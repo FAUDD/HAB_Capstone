@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accession manifest_version="2">
+  <head>
+    <id>0209116</id>
+    <version>1.1</version>
+    <timestamp>2020-02-28 18:32:10+00</timestamp>
+    <host>yams</host>
+    <directory>/nodc/archive/arc0152/0209116/1.1/</directory>
+    <file_count>22</file_count>
+    <byte_count>1265457</byte_count>
+  </head>
+  <body>
+    <files>
+      <file>
+        <path>NCEI-Readme.txt</path>
+        <digest algorithm="md5">e91932714ba31f21222c897c53a16b96</digest>
+        <digest algorithm="sha1">82edb6b02edde6773d1dbf60f0daa14dd0a2399a</digest>
+        <digest algorithm="sha256">8a28ff0cfd348380edf08df45dffd3af0f7b21e36693b33c2caacf099fc00e47</digest>
+        <digest algorithm="sha384">5f34016a6e2d1509b8a30b4831c1a216df54bb1e865cea0fb6a1ce6f94ac19c39f8abea4ce4fd1d2fc9dbbcc808a7158</digest>
+        <digest algorithm="sha512">3ef7e6ffc7c31d8f016ae4c3654e4476ffebdeef8984c1cca0da3cd3b8410e5b19b0d985d06ecd58609ddce2f39a6add62c08580e018351ab2827c4b06da39c2</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>1847</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2018-06-07 19:47:08+00</modtime>
+        <changetime>2020-02-28 18:32:08+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487443</inode>
+      </file>
+      <file>
+        <path>about</path>
+        <digest algorithm="md5">d41d8cd98f00b204e9800998ecf8427e</digest>
+        <digest algorithm="sha1">da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+        <digest algorithm="sha256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+        <digest algorithm="sha384">38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+        <digest algorithm="sha512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+        <type_category>irregular</type_category>
+        <type>directory</type>
+        <permissions>drwxrwxr-x</permissions>
+        <linkcount>2</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>4096</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-25 19:52:29+00</modtime>
+        <changetime>2020-02-28 18:32:08+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487441</inode>
+      </file>
+      <file>
+        <path>about/0209116_lonlat.txt</path>
+        <digest algorithm="md5">5ce7c172824dfff6b075670ca1adcd5f</digest>
+        <digest algorithm="sha1">7c406a9ced1d17c1fa7dee28cb154d6e094b7b1f</digest>
+        <digest algorithm="sha256">1b5f39db814fc55c326802d7bcfa0b70800b8a352ed3be97b11816f33613b4d0</digest>
+        <digest algorithm="sha384">8dc897629bd0b767a847faa369ad5c68ba14c5b7f253884f450b10f8d1c3bec9bb4be9d1742d1b3f402e81f2de81960d</digest>
+        <digest algorithm="sha512">580f1664a80e9c93df9e0be536feb938e15e9c30ef0aae87a803aafe0d9a90a6d16843e56008253a05bf2036ab84399cfae3fb70391e6d619609869540ec03c6</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>126</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-25 19:39:32+00</modtime>
+        <changetime>2020-02-28 18:32:08+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487445</inode>
+      </file>
+      <file>
+        <path>about/0209116_map.jpg</path>
+        <digest algorithm="md5">2c75a03aad019c6ce08839216721ab76</digest>
+        <digest algorithm="sha1">dd8b8df56a73d069056b9d4883ef9ce718aa4744</digest>
+        <digest algorithm="sha256">cbdea69501db2d3c1e5ff261917ba372c2012e32ad88a0257ef322002c3e573d</digest>
+        <digest algorithm="sha384">31ac5e30cbfcac717c6986ed365a30143db82c910eb8fba9bc75d4a139dcae8551d70d8db114aed4c9c6c7ced9cf5228</digest>
+        <digest algorithm="sha512">097008b474b2a23d0b746581dfd9eff344e87af3bca3617c0e82b1790821c20e15b418336f582a7dbd47ed2ac58d3cd67e98304f96b76623c298c51a7d1db549</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>136092</size>
+        <blksize>32768</blksize>
+        <blocks>272</blocks>
+        <modtime>2020-02-25 19:43:09+00</modtime>
+        <changetime>2020-02-28 18:32:08+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487447</inode>
+      </file>
+      <file>
+        <path>about/0209116_preview.jpg</path>
+        <digest algorithm="md5">2367e5046f60513aca4d96066014c527</digest>
+        <digest algorithm="sha1">d7a6a85dd1800ec291432be28c1ed3b470ae3f21</digest>
+        <digest algorithm="sha256">8d59f4617c34afdee4fc633e5cfb1277023a5187850611f24ee16588400f8a12</digest>
+        <digest algorithm="sha384">f5e3134f857408a7226618fff705baef95d0c62141872ad6ec6b23c1a65e4f19e32c424b7a460312c272465ee719a5b3</digest>
+        <digest algorithm="sha512">02e8ad4110e195ec55b22597014c3b4b64d8bd4aadf882a851895a312b160d54820da74ccaadf383cad10f4d7a3b1a64c5783adf2ee3bbc7624a01822b9a0ef5</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>510452</size>
+        <blksize>32768</blksize>
+        <blocks>1000</blocks>
+        <modtime>2020-02-10 20:38:59+00</modtime>
+        <changetime>2020-02-28 18:32:08+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487448</inode>
+      </file>
+      <file>
+        <path>about/3J2J2H-confirmation_email.txt</path>
+        <digest algorithm="md5">5127456e72afd906bda4966078dd82f0</digest>
+        <digest algorithm="sha1">896f615c4d6d03959f480f2b776ffde00a46dbd1</digest>
+        <digest algorithm="sha256">c96af416acc90379028bc9b4c84a42130f4a159c37da1e5b9b449a9ffc8a5678</digest>
+        <digest algorithm="sha384">de3ef4ad6d4f134cbe412246caa697c5421eef602b1cc201cb7566c08407caab461801eefd4706d9f4a536561eb9e8a9</digest>
+        <digest algorithm="sha512">8519f4ca429484f303e545f865c493ed42de87ce60090126fa9ebf1015c3a869ebda138600779b243b0516e6378c83b9aadd47335a3fd32dcdf5fbdceaffa3fa</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>1976</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-10 20:45:11+00</modtime>
+        <changetime>2020-02-28 18:32:08+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487449</inode>
+      </file>
+      <file>
+        <path>about/3J2J2H-report.txt</path>
+        <digest algorithm="md5">030a89481ff63890b1bde27902460359</digest>
+        <digest algorithm="sha1">3b16434068511e355edfa77060dd76ccfbd40e21</digest>
+        <digest algorithm="sha256">71e1e85f6a19130eb8e7c4514208e327c827ac91576753ec26d6f2ff654d11fb</digest>
+        <digest algorithm="sha384">04dbf7ef31d4480677b68a1fcaf718b2827e97f7118f27836ee78184b1890830af4edef144e224d5ba82f0c6e7b3bfa5</digest>
+        <digest algorithm="sha512">0fdf7b59d108008dec7357d14c9e51fa291f8a0ec463a9883dbe7ad4caadd62a883a1fbc54a07305febf855152d36a87585b3d5c129a5da9f7f2eda749ef0f70</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>2251</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-25 19:11:32+00</modtime>
+        <changetime>2020-02-28 18:32:08+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487450</inode>
+      </file>
+      <file>
+        <path>about/journal.txt</path>
+        <digest algorithm="md5">329f5dc025ddd8814a6b0be0af72299a</digest>
+        <digest algorithm="sha1">8e5b84b7738075993b002be29a67d4b4aabe748d</digest>
+        <digest algorithm="sha256">7c28b8ec0050f63f8bc0039cdefc81737039b02f66317dfbf704a0eef107d038</digest>
+        <digest algorithm="sha384">8ff636813073ade72e0dedf396fc951f70b3364727a07213022ccf72805c8fb8d1d09a09e822d7942cd594cad5941b0a</digest>
+        <digest algorithm="sha512">4f83cb43f5eecc2dc655b36eae0174ee57c624c08870455bb823fa845b67b9ba8a3aeba2ad3298408d4fbe194d3665e7e3ba77492f0754a5c9bb5e1076f278e8</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>1948</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-26 18:35:49+00</modtime>
+        <changetime>2020-02-28 18:32:08+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487451</inode>
+      </file>
+      <file>
+        <path>data</path>
+        <digest algorithm="md5">d41d8cd98f00b204e9800998ecf8427e</digest>
+        <digest algorithm="sha1">da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+        <digest algorithm="sha256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+        <digest algorithm="sha384">38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+        <digest algorithm="sha512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+        <type_category>irregular</type_category>
+        <type>directory</type>
+        <permissions>drwxrwxr-x</permissions>
+        <linkcount>3</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>4096</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-25 19:11:09+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487442</inode>
+      </file>
+      <file>
+        <path>data/0-data</path>
+        <digest algorithm="md5">d41d8cd98f00b204e9800998ecf8427e</digest>
+        <digest algorithm="sha1">da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+        <digest algorithm="sha256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+        <digest algorithm="sha384">38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+        <digest algorithm="sha512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+        <type_category>irregular</type_category>
+        <type>directory</type>
+        <permissions>drwxrwxr-x</permissions>
+        <linkcount>3</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>4096</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-25 19:11:10+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487444</inode>
+      </file>
+      <file>
+        <path>data/0-data/3J2J2H-ISO-19115-2.xml</path>
+        <digest algorithm="md5">fadaacab99b20e4801e4184401931991</digest>
+        <digest algorithm="sha1">79ee62e7944a5e7220ebc90930232f79b9763b51</digest>
+        <digest algorithm="sha256">c61ce8ff81427647c6ca9da69cab24a274fd9cb0e6ff3b83834b49683bfbd5ca</digest>
+        <digest algorithm="sha384">672f9cde3b652085340c2c46a66ae5a681649d09456756da36cf394581feb5c39a834d4f3f2daf53a27dea6abd0e5183</digest>
+        <digest algorithm="sha512">59315c1f1dbd26b2e45b3be21aa1da81e91ddd0a183ba38ff8cc02c89f4ba9e88fe5ba0c5be22a8377f9a46d936cea89d2803f4289c51c2ca113953b472594ce</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>46770</size>
+        <blksize>32768</blksize>
+        <blocks>96</blocks>
+        <modtime>2020-02-10 20:45:08+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:09+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487452</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_browse_graphic_2019.jpg</path>
+        <digest algorithm="md5">2367e5046f60513aca4d96066014c527</digest>
+        <digest algorithm="sha1">d7a6a85dd1800ec291432be28c1ed3b470ae3f21</digest>
+        <digest algorithm="sha256">8d59f4617c34afdee4fc633e5cfb1277023a5187850611f24ee16588400f8a12</digest>
+        <digest algorithm="sha384">f5e3134f857408a7226618fff705baef95d0c62141872ad6ec6b23c1a65e4f19e32c424b7a460312c272465ee719a5b3</digest>
+        <digest algorithm="sha512">02e8ad4110e195ec55b22597014c3b4b64d8bd4aadf882a851895a312b160d54820da74ccaadf383cad10f4d7a3b1a64c5783adf2ee3bbc7624a01822b9a0ef5</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>510452</size>
+        <blksize>32768</blksize>
+        <blocks>1000</blocks>
+        <modtime>2020-02-10 20:38:59+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487453</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_field_sampling_master_coordinates_2019.csv</path>
+        <digest algorithm="md5">dd10ea80bfd134c3dffeb5e4beb25268</digest>
+        <digest algorithm="sha1">61d12ce7198c3e1ef3a13f55a3ec53a64e268701</digest>
+        <digest algorithm="sha256">cc1b043fcc06d9211c20fecf32030e7b8efe995a406e552fe17217336c494d8b</digest>
+        <digest algorithm="sha384">a0497a380d1b06da0ae46b4693c87775e7cf953d140b33a5c58c26cb0069faefc7ac10cbb7e1c8ba66b65d86af4c1a96</digest>
+        <digest algorithm="sha512">5f3667d77c544bad91a47951116ca7a2beca21dfceafdcad141cab7eb50c6cc1a27392bcfad51a36dfa039eab60c544b88461b6efe1170b724efc7ca59fcbbf6</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>179</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-10 20:38:59+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487454</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_field_sampling_master_coordinates_2019_shp</path>
+        <digest algorithm="md5">d41d8cd98f00b204e9800998ecf8427e</digest>
+        <digest algorithm="sha1">da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+        <digest algorithm="sha256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+        <digest algorithm="sha384">38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+        <digest algorithm="sha512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+        <type_category>irregular</type_category>
+        <type>directory</type>
+        <permissions>drwxrwxr-x</permissions>
+        <linkcount>2</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>4096</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-25 19:11:10+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487446</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_field_sampling_master_coordinates_2019_shp/lake_erie_habs_field_sampling_master_coordinates_2019.cpg</path>
+        <digest algorithm="md5">ae3b3df9970b49b6523e608759bc957d</digest>
+        <digest algorithm="sha1">663b90c899fa25a111067be0c22ffc64dcf581c2</digest>
+        <digest algorithm="sha256">3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824</digest>
+        <digest algorithm="sha384">cab650f4d09154e71f001d66b738e29c48b65cfd41da0dcd917690e7d4b447c3a1f077af65447a76af7ad24e58dbd1b0</digest>
+        <digest algorithm="sha512">ce7ba9a82c602e57507185e7a749f9eb76bce2b0fb87e478e815ab868600be13199fbea902b996458e20ef3cf2d61219e5d1743a1d8a2deddc76bc90d1802ddf</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>5</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-07 09:26:08+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487456</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_field_sampling_master_coordinates_2019_shp/lake_erie_habs_field_sampling_master_coordinates_2019.dbf</path>
+        <digest algorithm="md5">23ec57d6ded105712b5a7a6d73801d4c</digest>
+        <digest algorithm="sha1">448b837d1175c7e9e83986f3b5ba5f5610e720c2</digest>
+        <digest algorithm="sha256">432f0095c998c9a6c43918d850670938054710720318198cd5cedb28aa555c96</digest>
+        <digest algorithm="sha384">42028f3ec5c85f40e4e3d2e3a3eaf46580d7202e3aba9e449aef319c36d5c44e6a1b32bb8d855f212f4e291e22645dd6</digest>
+        <digest algorithm="sha512">4a70244ab5313cd3e35e35b738396bdfbcb09ad82603f568aa9b2a6e19ebd36055ff32ead35653a923c8ae98cb3dfa07e7de6d5e589f0b860580995b23843586</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>2474</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-07 09:26:08+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487457</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_field_sampling_master_coordinates_2019_shp/lake_erie_habs_field_sampling_master_coordinates_2019.prj</path>
+        <digest algorithm="md5">c742bee3d4edfc2948a2ad08de1790a5</digest>
+        <digest algorithm="sha1">86813d76269ab91b40ed3e67a86745bd933124e0</digest>
+        <digest algorithm="sha256">a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4</digest>
+        <digest algorithm="sha384">f9399636f4a1b51325c9c2f1a4cf0a10acab6b8fa42ae1d07d70c81850da526157af77d3a0740f1486df007fc5f50d29</digest>
+        <digest algorithm="sha512">b3ddd6fbfb5cca02d69acf67f986a7d1bd0400d72db141b610a141c4b70fc18f9969cb6935b66c466902510f6565d221d183f13203be4362817f97f5794edf75</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>145</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-07 09:26:08+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487458</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_field_sampling_master_coordinates_2019_shp/lake_erie_habs_field_sampling_master_coordinates_2019.sbn</path>
+        <digest algorithm="md5">3b18ca1d21e75970b168eb54c3822b03</digest>
+        <digest algorithm="sha1">11faa211f3f476806d08a760a61892634e2be3ba</digest>
+        <digest algorithm="sha256">76c54677f516c15e2df3a0eee477b63bc9c7b09a4feb7c2b1f41e9ae2bed6980</digest>
+        <digest algorithm="sha384">bb0e96da1137078c2db4d17ad1ab058e6fdaa8c144ae11ac4ce83b0daa2b6acb7d2a286af583d6f896fcc7dcdc78a8cf</digest>
+        <digest algorithm="sha512">d62f78664ca43af2ce9120accbe6875310621729d9c8f10f56abc612be65578697412a1b9d5499a7e1a17eaa602d79e5959660dd9fc9d12cbc17d13cfbbdaeec</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>212</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-07 09:26:08+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487459</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_field_sampling_master_coordinates_2019_shp/lake_erie_habs_field_sampling_master_coordinates_2019.sbx</path>
+        <digest algorithm="md5">6cc31cbeca6978325b71a44389fc530d</digest>
+        <digest algorithm="sha1">45cc7439a4b103c11e925de7048336c67f4b0a1e</digest>
+        <digest algorithm="sha256">6d8516d181c04e29860a4f5e868fe6803caa68e122ef625d91ac8dd12752bc80</digest>
+        <digest algorithm="sha384">7b99501bbf408146e861c58771cb991c7287b7079a03c19b2166925442bafda8f5998b92247d036de836c895bfaf8ea8</digest>
+        <digest algorithm="sha512">eae445764cd898a9db20d161686ac3d3de99564a768445a749daf30bedd110940fc78dcaa6881f7aa3597d65bf9fb49679f627841ccf03fe22284771f4303887</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>124</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-07 09:26:08+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487460</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_field_sampling_master_coordinates_2019_shp/lake_erie_habs_field_sampling_master_coordinates_2019.shp</path>
+        <digest algorithm="md5">ba6942e903a41bdd1b5246fcdd9814c4</digest>
+        <digest algorithm="sha1">b611d51eea4cc5cb55d178e2d73467d7716c3e3c</digest>
+        <digest algorithm="sha256">002bdf94537e6df56def7b74f32675998cbd24bfaf39431d5dc16fcea023399a</digest>
+        <digest algorithm="sha384">4fba384a2accb2502fa80708d222afa01a10acfafede3c1ebd440aca666ef7663be52e82fee50934d56d55e847578114</digest>
+        <digest algorithm="sha512">34e198bd02174f6e46b368c6ffc734a7662900748ff652ff03276a4c465740de79ec9e886d377df36d280196411a58d5c8245f9d5defd54022da75515adfe266</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>324</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-07 09:26:08+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487461</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_field_sampling_master_coordinates_2019_shp/lake_erie_habs_field_sampling_master_coordinates_2019.shx</path>
+        <digest algorithm="md5">7200938ed3918ee9c2793284d86d0edc</digest>
+        <digest algorithm="sha1">4151c730cccb0317c02b69324aa67b9ed81bea23</digest>
+        <digest algorithm="sha256">69d4c39f3c62d588cfe229227718dcb3fa72f937b951676a743d927d8c62c3aa</digest>
+        <digest algorithm="sha384">3c6c74f10097f50b5065730da06fbeac46ad8b64310fcc418a4bac6edae2cc82dc86b6f3973699668437064b9e4b1abc</digest>
+        <digest algorithm="sha512">881de315f71c9d9fc638698bb46e192ed8d9f9485fb2ef839a7af877535d41f900eacf601b613645065ba22a0a39aadce5febcb70f668cf389ffe134552422be</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>164</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2020-02-07 09:26:08+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487462</inode>
+      </file>
+      <file>
+        <path>data/0-data/lake_erie_habs_field_sampling_results_2019.csv</path>
+        <digest algorithm="md5">e384e2f92d91e960a1e8ebe37a67609a</digest>
+        <digest algorithm="sha1">867c511943af4fd04cee8017deacf2e301594f50</digest>
+        <digest algorithm="sha256">7bbcab31fe60a313557c025368d38fe567c9d8165162123d39011b8da6ecc7df</digest>
+        <digest algorithm="sha384">ad4d3f4a7352e8d9ce5379349e9c3e73d6090dd55834a7054ed9965944fb330417376a43cd40794cbc69eb06af975b3e</digest>
+        <digest algorithm="sha512">e7a25efc3ab01b72c42c9501ea57506ee8f73464dde97bb86f4995185a617bf1333ef12d8db83271ef1679575c56bd69452719e1f7c4669648fc8caab3f1fb3c</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>33532</size>
+        <blksize>32768</blksize>
+        <blocks>72</blocks>
+        <modtime>2020-02-10 20:39:00+00</modtime>
+        <changetime>2020-02-28 18:32:09+00</changetime>
+        <acctime>2020-02-28 18:32:10+00</acctime>
+        <sumtime>2020-02-28 18:32:10+00</sumtime>
+        <inode>64487455</inode>
+      </file>
+    </files>
+  </body>
+</accession>

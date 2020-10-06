@@ -1,0 +1,29 @@
+Re: Date correction accession 0187718
+1 message
+Lacey Mason - NOAA Federal <lacey.mason@noaa.gov> Mon, Apr 22, 2019 at 4:31 PM
+To: Jonathan Jackson - NOAA Affiliate <jonathan.jackson@noaa.gov>
+It looks like a typo on my part. The first date of collection was 20120515.
+Lacey Mason
+National Oceanic and Atmospheric Administration
+Great Lakes Environmental Research Laboratory
+4840 South State Rd. | Ann Arbor, MI 48108
+734-741-2280 | lacey.mason@noaa.gov
+www.glerl.noaa.gov
+Follow us on:
+Sign up to receive our eNews!
+On Mon, Apr 22, 2019 at 4:24 PM Jonathan Jackson - NOAA Affiliate <jonathan.jackson@noaa.gov> 
+wrote:
+Lacey,
+Do you have any update for this?
+thanks,
+Jonathan
+On Wed, Apr 17, 2019 at 11:53 AM Jonathan Jackson - NOAA Affiliate <jonathan.jackson@noaa.gov> 
+wrote:
+Lacey,
+After reviewing the submitted data files for accession 0187718, the start date of the data is 
+20120515, however the start date entered and used in the title is 20120512. Unless you believe
+there is an issue with the data, I will correct the Start Date and the start date used in the 
+Title to reflect this correction. Please confirm in your response to this email that you agree 
+with that correction or not.
+thank you,
+Jonathan

@@ -1,0 +1,139 @@
+301641 Maumee River dsnt. I-280 41.661067 -83.510567
+P11S32 Maumee River near Mouth 41.694300 -83.467067
+301788 Maumee Bay near Woodtick Peninsula 41.73300 -83.41623
+302142 Maumee Bay near State Park 41.70163 -83.37407
+301258 Lake Erie near Toledo Lighthouse 41.76832 -83.30080
+302821 Lake Erie between Toledo/Oregon WTP Intakes 41.69570 -83.26490
+302502 Lake Erie North of Port Clinton 41.55781 -82.93635
+300898 Lake Erie near West Sister Island 41.72670 -83.15000
+301076 Lake Erie near Middle Bass Island 41.68500 -82.93330
+302153 Lake Erie near Middle Sister Island 41.86035 -83.07294
+300900 Sandusky Bay near Johnsons Island 41.47500 -82.73830
+301259 Lake Erie near Cedar Point 41.52774 -82.60062
+300897 Lake Erie near Huron 41.44485 -82.45436
+301257 Lake Erie near Lorain 41.48657 -82.23877
+300895 Lake Erie near Rocky River 41.50907 -81.90524
+301256 Lake Erie near Wildwood 41.60404 -81.58445
+301255 Lake Erie near Fairport 41.77903 -81.31017
+301254 Lake Erie near Geneva 41.87507 -80.98111
+300892 Lake Erie near Conneaut 41.99457 -80.52996
+301356 East of Middle Bass Island 41.69166 -82.76666
+301357 Between Pelee and Kelleys Islands 41.66667 -82.66666
+301358 Between Kelleys Island and Marblehead Peninsula 41.56666 -82.66666
+301359 Maumee Bay 41.71383 -83.42500
+301360 Maumee Bay off State Park 41.73333 -83.29716
+301361 Between Port Clinton and Catawba Island 41.54866 -82.91666
+301362 West of South Bass Island 41.64033 -82.94450
+301363 North of Toussaint River 41.68750 -83.04033
+300863 Maumee Bay off Ottawa River 41.74250 -83.44766
+301278 Huron Transect 1 41.51765 -82.54841
+301279 Huron Transect 2 41.54668 -82.46346
+301280 Huron Transect 3 41.57538 -82.38235
+301281 Huron Transect 4 41.60471 -82.29871
+301282 Huron Transect 5 41.63395 -82.21755
+301283 Huron Transect 6 41.66295 -82.13396
+300895 Rocky River Ambient Station 41.50907 -81.90524
+301273 Rocky River Transect 1 41.52482 -81.90803
+301274 Rocky River Transect 2 41.55140 -81.91182
+301275 Rocky River Transect 3 41.60671 -81.91955
+301276 Rocky River Transect 4 41.66117 -81.92725
+301277 Lake Guardian Station E-43 41.78833 -81.94500
+301255 Fairport Ambient Station 41.77903 -81.31017
+301267 Fairport Transect 1 41.79527 -81.32765
+301268 Fairport Transect 2 41.80262 -81.33567
+301269 Fairport Transect 3 41.82050 -81.35468
+301270 Fairport Transect 4 41.83699 -81.37241
+301271 Fairport Transect 5 41.88008 -81.41897
+301272 Lake Guardian Station E-36 41.93500 -81.47833
+301254 Geneva Ambient Station 41.87507 -80.98111
+301261 Geneva Transect 1 41.88411 -80.98246
+301262 Geneva Transect 2 41.89177 -80.98361
+301263 Geneva Transect 3 41.90566 -80.98567
+301264 Geneva Transect 4 41.92939 -80.98918
+301265 Geneva Transect 5 42.02101 -81.00288
+301266 Lake Guardian Station E-32 42.08166 -81.01166
+301641 Maumee River dsnt. I-280 41.661067 -83.510567
+P11S32 Maumee River near Mouth 41.694300 -83.467067
+301788 Maumee Bay near Woodtick Peninsula 41.73300 -83.41623
+302142 Maumee Bay near State Park 41.70163 -83.37407
+301258 Lake Erie near Toledo Lighthouse 41.76832 -83.30080
+302502 Lake Erie North of Port Clinton 41.55781 -82.93635
+300898 Lake Erie near West Sister Island 41.72670 -83.15000
+301076 Lake Erie near Middle Bass Island 41.68500 -82.93330
+302153 Lake Erie near Middle Sister Island 41.86035 -83.07294
+300900 Sandusky Bay near Johnsons Island 41.47500 -82.73830
+301075 Lake Erie near Cedar Point 41.52774 -82.60062
+300897 Lake Erie near Huron 41.44485 -82.45436
+301257 Lake Erie near Lorain 41.48657 -82.23877
+300895 Lake Erie near Rocky River 41.60670 -81.89670
+301256 Lake Erie near Wildwood 41.60404 -81.58445
+301255 Lake Erie near Fairport 41.77903 -81.31017
+301254 Lake Erie near Geneva 41.87507 -80.98111
+300892 Lake Erie near Conneaut 41.99457 -80.52996
+301356 East of Middle Bass Island 41.69166 -82.76666
+301357 Between Pelee and Kelleys Islands 41.66667 -82.66666
+301358 Between Kelleys Island and Marblehead Peninsula 41.56666 -82.66666
+301359 Maumee Bay 41.71383 -83.42500
+301360 Maumee Bay off State Park 41.73333 -83.29716
+301361 Between Port Clinton and Catawba Island 41.54866 -82.91666
+301362 West of South Bass Island 41.64033 -82.94450
+301363 North of Toussaint River 41.68750 -83.04033
+300863 Maumee Bay off Ottawa River 41.74250 -83.44766
+301278 Huron Transect 1 41.51765 -82.54841
+301279 Huron Transect 2 41.54668 -82.46346
+301280 Huron Transect 3 41.57538 -82.38235
+301281 Huron Transect 4 41.60471 -82.29871
+301282 Huron Transect 5 41.63395 -82.21755
+301283 Huron Transect 6 41.66295 -82.13396
+300895 Rocky River Ambient Station 41.6067 -81.89670
+301273 Rocky River Transect 1 41.52482 -81.90803
+301274 Rocky River Transect 2 41.55140 -81.91182
+301275 Rocky River Transect 3 41.60671 -81.91955
+301276 Rocky River Transect 4 41.66117 -81.92725
+301277 Lake Guardian Station E-43 41.78833 -81.94500
+301255 Fairport Ambient Station 41.77903 -81.31017
+301267 Fairport Transect 1 41.79527 -81.32765
+301268 Fairport Transect 2 41.80262 -81.33567
+301269 Fairport Transect 3 41.82050 -81.35468
+301270 Fairport Transect 4 41.83699 -81.37241
+301271 Fairport Transect 5 41.88008 -81.41897
+301272 Lake Guardian Station E-36 41.93500 -81.47833
+301254 Geneva Ambient Station 41.87507 -80.98111
+301261 Geneva Transect 1 41.88411 -80.98246
+301262 Geneva Transect 2 41.89177 -80.98361
+301263 Geneva Transect 3 41.90566 -80.98567
+301264 Geneva Transect 4 41.92939 -80.98918
+301265 Geneva Transect 5 42.02101 -81.00288
+301266 Lake Guardian Station E-32 41.08166 -81.01166
+302439 (2) Maumee Bay near Cullen Park along break wall 41.7035 -83.4678
+204188 (3) Maumee Bay near Immergrun 41.69 -83.4194
+S03K12 (4) Maumee Bay near Cedar Point NWR along west shore 41.7008 -83.3378
+S03K10 Lake Erie near Cooley Canal 41.6756 -83.2936
+302438 (5) Lake Erie near Crane Creek State Park 41.6252 -83.175
+300905 (6) Lake Erie near Long Beach 41.6145 -83.1115
+S02K08 Lake Erie near Port Clinton 2.5 mi. west of Portage R. 41.5281 -82.9778
+302436 (13) Sandusky Bay near Willow Inn Road 41.4807 -82.9663
+304437 (14) Sandusky Bay near Whites Landing 41.4255 -82.9101
+301568 (15) Sandusky Bay near Johnsons Island 41.4908 -82.7394
+302435 (16) Sandusky Bay near Cedar Point Causeway 41.4636 -82.6742
+302432 (17) * Sandusky Bay near City Boundary Causeway 41.4301 -82.6223
+302433 (18) * Sandusky Bay near Farthest East Point 41.4206 -82.6073
+302443 (19) Lake Erie east of Sandusky 41.4206 -82.6223
+204167 (21) Lake Erie east of Vermilion near Elberta Beach 41.4289 -82.3475
+302442 (9) Lake Erie at Catawba Peninsula adj. Sand Road 41.5292 -82.8753
+S02K07 (10) Lake Erie at Catawba Peninsula near State Park 41.5747 -82.8592
+302441 (11) Lake Erie at Catawba Peninsula near Gem Beach 41.5756 -82.8235
+302440 (12) * Lake Erie at Catawba Peninsula near East Harbor 41.5522 -82.7988
+204178 Lake Erie at Marblehead Peninsula near Lighthouse 41.5364 -82.7108
+204200 (1) Lake Erie at South Bass Island near State Park 41.6439 -82.8411
+204210 Lake Erie at Kelleys Island near Northeast tip 41.6217 -82.6783
+301762 Lake Erie West of Miller Road Boat Ramp 41.5003 -82.0721
+204141 Lake Erie West of Bay Village and East of Avon Lake 41.5086 -81.9775
+204135 Lake Erie near Cuyahoga River and West Harbor 41.4992 -81.7172
+F01K02 Lake Erie East of Euclid Creek 41.5928 -81.5578
+204103 Lake Erie 2.1 miles West of Perry Power Plant 41.7894 -81.1767
+204101 Lake Erie West of Geneva State Park 41.8517 -81.0061
+A01K30 Lake Erie 0.3 miles West of OH/PA State Line 41.9756 -80.5269
+302529 Lake Erie 2.0 miles East of Chagrin River 41.6951 -81.4070
+302530 Lake Erie at Geneva on the Lake 41.8621 -80.9508
+302531 Lake Erie West of Kent State Ashtabula Branch 41.8906 -80.8398

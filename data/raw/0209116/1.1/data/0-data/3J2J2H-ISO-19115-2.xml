@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmi:MI_Metadata xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmi https://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
+  <gmd:fileIdentifier>
+    <gco:CharacterString>3J2J2H</gco:CharacterString>
+  </gmd:fileIdentifier>
+  <gmd:language>
+    <gco:CharacterString>eng; USA</gco:CharacterString>
+  </gmd:language>
+  <gmd:characterSet>
+    <gmd:MD_CharacterSetCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+  </gmd:characterSet>
+  <gmd:hierarchyLevel>
+    <gmd:MD_ScopeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+  </gmd:hierarchyLevel>
+  <gmd:hierarchyLevelName>
+    <gco:CharacterString>dataset</gco:CharacterString>
+  </gmd:hierarchyLevelName>
+  <gmd:contact>
+    <gmd:CI_ResponsibleParty>
+      <gmd:individualName>
+        <gco:CharacterString>Lacey Mason</gco:CharacterString>
+      </gmd:individualName>
+      <gmd:organisationName>
+        <gmx:Anchor>NOAA/OAR/GLERL</gmx:Anchor>
+      </gmd:organisationName>
+      <gmd:contactInfo>
+        <gmd:CI_Contact>
+          <gmd:phone>
+            <gmd:CI_Telephone>
+              <gmd:voice>
+                <gco:CharacterString>734-741-2280</gco:CharacterString>
+              </gmd:voice>
+              <gmd:facsimile>
+                <gco:CharacterString/>
+              </gmd:facsimile>
+            </gmd:CI_Telephone>
+          </gmd:phone>
+          <gmd:address>
+            <gmd:CI_Address>
+              <gmd:deliveryPoint>
+                <gco:CharacterString>4840 S. State Road</gco:CharacterString>
+              </gmd:deliveryPoint>
+              <gmd:deliveryPoint>
+                <gco:CharacterString/>
+              </gmd:deliveryPoint>
+              <gmd:city>
+                <gco:CharacterString>Ann Arbor</gco:CharacterString>
+              </gmd:city>
+              <gmd:administrativeArea>
+                <gco:CharacterString>MI</gco:CharacterString>
+              </gmd:administrativeArea>
+              <gmd:postalCode>
+                <gco:CharacterString>48108</gco:CharacterString>
+              </gmd:postalCode>
+              <gmd:country>
+                <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/country/details/73" xlink:actuate="onRequest">UNITED STATES</gmx:Anchor>
+              </gmd:country>
+            </gmd:CI_Address>
+          </gmd:address>
+        </gmd:CI_Contact>
+      </gmd:contactInfo>
+      <gmd:role>
+        <gmd:CI_RoleCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
+      </gmd:role>
+    </gmd:CI_ResponsibleParty>
+  </gmd:contact>
+  <gmd:dateStamp>
+    <gco:Date>2020-02-10</gco:Date>
+  </gmd:dateStamp>
+  <gmd:metadataStandardName>
+    <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+  </gmd:metadataStandardName>
+  <gmd:metadataStandardVersion>
+    <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
+  </gmd:metadataStandardVersion>
+  <gmd:identificationInfo>
+    <gmd:MD_DataIdentification>
+      <gmd:citation>
+        <gmd:CI_Citation>
+          <gmd:title>
+            <gco:CharacterString>Physical, chemical, and biological water quality data collected from a small boat in western Lake Erie, Great Lakes from 2019-04-30 to 2019-10-07</gco:CharacterString>
+          </gmd:title>
+          <gmd:date gco:nilReason="unknown"/>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>NOAA GLERL Data Manager</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/institution/details/1552" xlink:actuate="onRequest">US DOC; NOAA; OAR; Great Lakes Environmental Research Laboratory (Great Lakes Environmental Research Laboratory - GLERL)</gmx:Anchor>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>oar.glerl.data@noaa.gov</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Reagan Errera</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/institution/details/1552" xlink:actuate="onRequest">US DOC; NOAA; OAR; Great Lakes Environmental Research Laboratory (Great Lakes Environmental Research Laboratory - GLERL)</gmx:Anchor>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>reagan.errera@noaa.gov</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Casey Godwin</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gmx:Anchor>Cooperative Institute for Great Lakes Research (CIGLR - University of Michigan)</gmx:Anchor>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>cgodwin@umich.edu</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+        </gmd:CI_Citation>
+      </gmd:citation>
+      <gmd:abstract>
+        <gco:CharacterString>Physical, chemical, and biological water quality data from the western basin of Lake Erie collected during 2019. These data were collected during repeated trips to a set of stations before, during, and after harmful algal blooms (HABs). Data for the following parameters are included, wind speed, wave height, secchi depth, CTD temperature, CTD specific conductivity, CTD beam attenuation, CTD transmission, CTD dissolved oxygen, CTD phytosynthetically active radiation, turbidity, particulate microcystin, dissolved microsystin, extracted phycocyanin, extracted phycocyanin, extracted chlorophyll-a, total phosphorous, total dissolved phosphorous, soluble reactive phosphorus, ammonia, nitrate + nitrite, particulate organic carbon, particulate organic nitrogen, colored dissolved organic material absorbance at 400 nm, total suspended solids, and volatile suspended solids.  Table cells with no value means no data available.</gco:CharacterString>
+      </gmd:abstract>
+      <gmd:purpose>
+        <gco:CharacterString>These data were collected by the National Oceanic and Atmospheric Administration Great Lakes Environmental Research Laboratory (NOAA-GLERL) and the Cooperative Institute for Great Lakes Research (CIGLR) (NOAA Cooperative Agreement NA17OAR4320152) to support NOAA-GLERL’s operational development of the Lake Erie harmful algal bloom (HAB) forecasts and to directly monitor microcystin concentrations within the ecosystem. We have conducted this discrete field sampling along with continuous field sampling, experimental work, and hydrodynamic-biological mechanistic modeling to ensure development of useful tools and technology for local managers, interfacing with end users- facilitating the translation of research into more effective decision-making and public education.		</gco:CharacterString>
+      </gmd:purpose>
+      <gmd:credit>
+        <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/institution/details/1418" xlink:actuate="onRequest">Related Funding Agency: US Environmental Protection Agency (US EPA - US EPA)</gmx:Anchor>
+      </gmd:credit>
+      <gmd:credit>
+        <gmx:Anchor>Suggested Author List: Burtner, Ashley; Kitchens, Christine; Fyffe, Deanna; Godwin, Casey; Johengen, Tom; Stuart, Dack; Cooperative Institute for Great Lakes Research, University of Michigan; Errera, Reagan; Palladino, Danna; Fanslow, David; Gossiaux, Duane; National Oceanic and Atmospheric Administration, Great Lakes Environmental Research Laboratory </gmx:Anchor>
+      </gmd:credit>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>Great Lakes Restoration Initiative</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="project">project</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Related Projects and/or Programs</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/seaname/details/145" xlink:actuate="onRequest">Great Lakes</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place">place</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>NODC SEA AREA NAMES THESAURUS</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>BEAM ATTENUATION</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>particulate mycrosystin</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>dissolved microcystin</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>extracted phycocyanin</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>CHLOROPHYLL A - extracted</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>total dissolved phosphorus</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>soluble reactive phosphorus</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>nitrate + nitrite content</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>colored dissolved organic material absorbance at 400nm</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>total suspended solids</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>volatile suspended solids</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>sample depth (category)</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Data Types</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/437" xlink:actuate="onRequest">WIND SPEED</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/420" xlink:actuate="onRequest">WAVE HEIGHT</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/322" xlink:actuate="onRequest">SECCHI DEPTH</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/373" xlink:actuate="onRequest">TEMPERATURE - WATER - CONTINUOUS MEASUREMENT [WATER TEMPERATURE]</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/91" xlink:actuate="onRequest">CONDUCTIVITY</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/613" xlink:actuate="onRequest">Attenuation/Transmission</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/116" xlink:actuate="onRequest">DISSOLVED OXYGEN</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/272" xlink:actuate="onRequest">RADIATION - PHOTOSYNTHETICALLY ACTIVE [PHOTOSYNTHETIC ACTIVE RADIATION (PAR)]</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/393" xlink:actuate="onRequest">turbidity</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/388" xlink:actuate="onRequest">TOTAL PHOSPHORUS</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/10" xlink:actuate="onRequest">AMMONIA (NH3)</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/251" xlink:actuate="onRequest">PARTICULATE ORGANIC CARBON</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/228" xlink:actuate="onRequest">PARTICULATE ORGANIC NITROGEN (PON)</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>NODC DATA TYPES THESAURUS</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>buoy - moored buoy</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>SBE 19plus V2 SeaCAT Profiler CTD</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>Hach 2100AN Turbidimeter</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>Abraxis ELISA kit</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>Turner Designs Aquafluor 8000-010</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>Turner Designs 10-AU Fluorometer</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>Seal QuAAtro or Seal AA3</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>Carlo-Erba model 1110 CHN Elemental Analyzer</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>Perkin Elmer UV/VIS spectrophotometer Lambda 35</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>n/a</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="instrument">instrument</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Sampling Instruments</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/insttype/details/38" xlink:actuate="onRequest">secchi disk</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="instrument">instrument</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>NODC INSTRUMENT TYPES THESAURUS</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>in situ</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>laboratory analysis</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="obstype">obstype</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Observation Category</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:language>
+        <gco:CharacterString>eng; USA</gco:CharacterString>
+      </gmd:language>
+      <gmd:topicCategory>
+        <gmd:MD_TopicCategoryCode>oceans</gmd:MD_TopicCategoryCode>
+      </gmd:topicCategory>
+      <gmd:topicCategory>
+        <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+      </gmd:topicCategory>
+      <gmd:extent>
+        <gmd:EX_Extent id="boundingExtent">
+          <gmd:geographicElement>
+            <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+              <gmd:westBoundLongitude>
+                <gco:Decimal>-83.55</gco:Decimal>
+              </gmd:westBoundLongitude>
+              <gmd:eastBoundLongitude>
+                <gco:Decimal>-83</gco:Decimal>
+              </gmd:eastBoundLongitude>
+              <gmd:southBoundLatitude>
+                <gco:Decimal>41.35</gco:Decimal>
+              </gmd:southBoundLatitude>
+              <gmd:northBoundLatitude>
+                <gco:Decimal>42.00</gco:Decimal>
+              </gmd:northBoundLatitude>
+            </gmd:EX_GeographicBoundingBox>
+          </gmd:geographicElement>
+          <gmd:temporalElement>
+            <gmd:EX_TemporalExtent>
+              <gmd:extent>
+                <gml:TimePeriod gml:id="boundingTemporalExtent">
+                  <gml:beginPosition>2019-04-30</gml:beginPosition>
+                  <gml:endPosition>2019-10-07</gml:endPosition>
+                </gml:TimePeriod>
+              </gmd:extent>
+            </gmd:EX_TemporalExtent>
+          </gmd:temporalElement>
+        </gmd:EX_Extent>
+      </gmd:extent>
+    </gmd:MD_DataIdentification>
+  </gmd:identificationInfo>
+  <gmd:contentInfo>
+    <gmd:MD_FeatureCatalogueDescription>
+      <gmd:includedWithDataset>
+        <gco:Boolean>true</gco:Boolean>
+      </gmd:includedWithDataset>
+      <gmd:featureTypes>
+        <gco:LocalName>WIND SPEED (knots)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>WAVE HEIGHT (feet)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>SECCHI DEPTH (meters)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>TEMPERATURE - WATER - CONTINUOUS MEASUREMENT [WATER TEMPERATURE] (degrees Celsius)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>CONDUCTIVITY (micro Siemens per centimeter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>BEAM ATTENUATION (m^-1)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>Attenuation/Transmission (percent)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>DISSOLVED OXYGEN (milligrams per liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>RADIATION - PHOTOSYNTHETICALLY ACTIVE [PHOTOSYNTHETIC ACTIVE RADIATION (PAR)] (micro Einsteins per meter^2 per second)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>turbidity (NTU)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>particulate mycrosystin (microgram/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>dissolved microcystin (microgram/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>extracted phycocyanin (microgram/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>CHLOROPHYLL A - extracted (microgram/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>TOTAL PHOSPHORUS (microgram/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>total dissolved phosphorus (microgram/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>soluble reactive phosphorus (microgram/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>AMMONIA (NH3) (microgram/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>nitrate + nitrite content (milligrams/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>PARTICULATE ORGANIC CARBON (milligrams/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>PARTICULATE ORGANIC NITROGEN (PON) (milligrams/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>colored dissolved organic material absorbance at 400nm (meter^-1)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>total suspended solids (milligrams/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>volatile suspended solids (milligrams/liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>sample depth (category) (categorical description)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureCatalogueCitation gco:nilReason="unknown"/>
+    </gmd:MD_FeatureCatalogueDescription>
+  </gmd:contentInfo>
+  <gmd:dataQualityInfo>
+    <gmd:DQ_DataQuality>
+      <gmd:scope>
+        <gmd:DQ_Scope>
+          <gmd:level>
+            <gmd:MD_ScopeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+          </gmd:level>
+          <gmd:extent xlink:href="#boundingExtent"/>
+        </gmd:DQ_Scope>
+      </gmd:scope>
+      <gmd:lineage xlink:title="References">
+        <gmd:LI_Lineage>
+          <gmd:statement>
+            <gco:CharacterString>https://www.glerl.noaa.gov/res/HABs_and_Hypoxia/	</gco:CharacterString>
+          </gmd:statement>
+        </gmd:LI_Lineage>
+      </gmd:lineage>
+    </gmd:DQ_DataQuality>
+  </gmd:dataQualityInfo>
+  <gmd:dataQualityInfo>
+    <gmd:DQ_DataQuality>
+      <gmd:scope>
+        <gmd:DQ_Scope>
+          <gmd:level>
+            <gmd:MD_ScopeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+          </gmd:level>
+        </gmd:DQ_Scope>
+      </gmd:scope>
+      <gmd:lineage>
+        <gmd:LI_Lineage>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: WIND SPEED (measured); 
+Units: knots; 
+Observation Category: in situ; 
+Sampling Instrument: buoy - moored buoy; 
+Sampling and Analyzing Method: Data were downloaded weekly from http://glbuoys.glos.us/45165 and http://www.ndbc.noaa.gov/station_realtime.php?station=THLO1; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: WAVE HEIGHT (measured); 
+Units: feet; 
+Observation Category: in situ; 
+Sampling Instrument: buoy - moored buoy; 
+Sampling and Analyzing Method: Data were downloaded weekly from http://glbuoys.glos.us/45165 and http://data.glos.us/glcfs/; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: SECCHI DEPTH (measured); 
+Units: meters; 
+Observation Category: in situ; 
+Sampling Instrument: secchi disk; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: TEMPERATURE - WATER - CONTINUOUS MEASUREMENT [WATER TEMPERATURE] (measured); 
+Units: degrees Celsius; 
+Observation Category: in situ; 
+Sampling Instrument: SBE 19plus V2 SeaCAT Profiler CTD; 
+Sampling and Analyzing Method: Conductivity, temperature, and depth sensor (CTD) data was collected by allowing the sensors to stabilize underwater, bringing the instrument to the surface, and then dropping it slowly. Values reported are the mean of all recorded values ±0.5m of the sample depth from the downcast of the instrument.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: CONDUCTIVITY (measured); 
+Units: micro Siemens per centimeter; 
+Observation Category: in situ; 
+Sampling Instrument: SBE 19plus V2 SeaCAT Profiler CTD; 
+Sampling and Analyzing Method: Conductivity, temperature, and depth sensor (CTD) data was collected by allowing the sensors to stabilize underwater, bringing the instrument to the surface, and then dropping it slowly. Values reported are the mean of all recorded values ±0.5m of the sample depth from the downcast of the instrument.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: BEAM ATTENUATION (measured); 
+Units: m^-1; 
+Observation Category: in situ; 
+Sampling Instrument: SBE 19plus V2 SeaCAT Profiler CTD; 
+Sampling and Analyzing Method: Conductivity, temperature, and depth sensor (CTD) data was collected by allowing the sensors to stabilize underwater, bringing the instrument to the surface, and then dropping it slowly. Values reported are the mean of all recorded values ±0.5m of the sample depth from the downcast of the instrument.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: Attenuation/Transmission (measured); 
+Units: percent; 
+Observation Category: in situ; 
+Sampling Instrument: SBE 19plus V2 SeaCAT Profiler CTD; 
+Sampling and Analyzing Method: Conductivity, temperature, and depth sensor (CTD) data was collected by allowing the sensors to stabilize underwater, bringing the instrument to the surface, and then dropping it slowly. Values reported are the mean of all recorded values ±0.5m of the sample depth from the downcast of the instrument.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: DISSOLVED OXYGEN (measured); 
+Units: milligrams per liter; 
+Observation Category: in situ; 
+Sampling Instrument: SBE 19plus V2 SeaCAT Profiler CTD; 
+Sampling and Analyzing Method: Conductivity, temperature, and depth sensor (CTD) data was collected by allowing the sensors to stabilize underwater, bringing the instrument to the surface, and then dropping it slowly. Values reported are the mean of all recorded values ±0.5m of the sample depth from the downcast of the instrument.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: RADIATION - PHOTOSYNTHETICALLY ACTIVE [PHOTOSYNTHETIC ACTIVE RADIATION (PAR)] (measured); 
+Units: micro Einsteins per meter^2 per second; 
+Observation Category: in situ; 
+Sampling Instrument: SBE 19plus V2 SeaCAT Profiler CTD; 
+Sampling and Analyzing Method: Conductivity, temperature, and depth sensor (CTD) data was collected by allowing the sensors to stabilize underwater, bringing the instrument to the surface, and then dropping it slowly. Values reported are the mean of all recorded values ±0.5m of the sample depth from the downcast of the instrument.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: turbidity (measured); 
+Units: NTU; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Hach 2100AN Turbidimeter; 
+Sampling and Analyzing Method: Turbidity was measured immediately after returning samples to the lab using a benchtop Hach turbidimeter.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: particulate mycrosystin (measured); 
+Units: microgram/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Abraxis ELISA kit; 
+Sampling and Analyzing Method: Two replicates for particulate microcystin (MC) were filtered onto Whatman GF/F filters (2012-2015) or Isopore membrane filters (2016-2018). Filters were placed in 70:30 methanol:water, sonicated, and toxins extracted for 12 hours at -20C (2012-2015) After removing the solvent extract, extraction was repeated twice again for an hour (2012-2015). Alternatively, toxins were extracted using commercially available Abraxis QuikLyse kits (2016-2018). Microcystin were quantified using commercial-available Abraxis ELISA kits.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: dissolved microcystin (measured); 
+Units: microgram/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Abraxis ELISA kit; 
+Sampling and Analyzing Method: Two replicates for particulate microcystin were filtered through a 0.22 µm nylon filter and quantified using commercial available Abraxis ELISA kits.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: extracted phycocyanin (measured); 
+Units: microgram/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Turner Designs Aquafluor 8000-010; 
+Sampling and Analyzing Method: Phycocyanin was measured in triplicate by filtering by concentrating samples onto 47-mm GF/F Whatman Glass Fiber filters. Phosphate buffer was added and samples were extracted using freeze/thaw cycles and sonication. Samples were read on a Turner Aquafluor.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: CHLOROPHYLL A - extracted (measured); 
+Units: microgram/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Turner Designs 10-AU Fluorometer; 
+Sampling and Analyzing Method: Chlorophyll α was measured in duplicate by concentrating lake water particulates on a 47-mm GF/F filter and performing a dimethylformamide extraction.  Samples were read on a Turner 10AU Fluorometer.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: TOTAL PHOSPHORUS (measured); 
+Units: microgram/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Seal QuAAtro or Seal AA3; 
+Sampling and Analyzing Method: Total phosphorus was measured in duplicate after digesting 50 mL of unfiltered lake water with potassium persulfate in an autoclave for 30 min. Concentrations were determined using the standard molybdate/ascorbic acid method on either a Seal QuAAtro or AA3.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: total dissolved phosphorus (measured); 
+Units: microgram/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Seal QuAAtro or Seal AA3; 
+Sampling and Analyzing Method: Total dissolved phosphorus was measured in duplicate by filtering 20 mL of lake water through a pre-rinsed 0.2-um Nucleopore filter and digesting with potassium persulfate in an autoclave for 30 min. Concentrations were determined using the standard molybdate/ascorbic acid method on either a Seal QuAAtro or AA3.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: soluble reactive phosphorus (measured); 
+Units: microgram/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Seal QuAAtro or Seal AA3; 
+Sampling and Analyzing Method: Soluble reactive phosphorus was measured in duplicate by filtering 12 mL of lake water through a pre-rinsed 0.2-um Nucleopore filter. Concentrations were determined using the standard molybdate/ascorbic acid method on either a Seal QuAAtro or AA3.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: AMMONIA (NH3) (measured); 
+Units: microgram/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Seal QuAAtro or Seal AA3; 
+Sampling and Analyzing Method: Ammonia was measured in duplicate by filtering 12 mL of lake water through a pre-rinsed 0.2-um Nucleopore filter. Concentrations were determined using the standard Bertholet reaction on either a Seal QuAAtro or AA3.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: nitrate + nitrite content (measured); 
+Units: milligrams/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Seal QuAAtro or Seal AA3; 
+Sampling and Analyzing Method: Nitrate + Nitrite was measured in duplicate by filtering 12 mL of lake water through a pre-rinsed 0.2-um Nucleopore filter. Concentrations were determined using the standard cadmium reduction method on either a Seal QuAAtro or AA3.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: PARTICULATE ORGANIC CARBON (measured); 
+Units: milligrams/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Carlo-Erba model 1110 CHN Elemental Analyzer; 
+Sampling and Analyzing Method: Samples for particulate organic carbon were processed in duplicate by filtering lake water through pre-combusted GF/F filters. Filters were acidified with 10 % HCL, and dried at 70⁰ C for 24 hours, and measured with a Perkin Elmer CHN elemental analyzer.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: PARTICULATE ORGANIC NITROGEN (PON) (measured); 
+Units: milligrams/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Carlo-Erba model 1110 CHN Elemental Analyzer; 
+Sampling and Analyzing Method: Samples for particulate organic nitrogen were processed in duplicate by filtering lake water through pre-combusted GF/F filters. Filters were acidified with 10 % HCL, and dried at 70⁰ C for 24 hours, and measured with a Perkin Elmer CHN elemental analyzer.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: colored dissolved organic material absorbance at 400nm (measured); 
+Units: meter^-1; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: Perkin Elmer UV/VIS spectrophotometer Lambda 35; 
+Sampling and Analyzing Method: Colored dissolved organic material (CDOM) was processed by filtering lake water through an acid-rinsed Nucleopore polycarbonate filter into an acid-washed and combusted borosilicate vial. CDOM was analyzed on a Perkin Elmer spectrophotometer within a week.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: total suspended solids (measured); 
+Units: milligrams/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: n/a; 
+Sampling and Analyzing Method: Total Suspended Solids were determined gravimetrically by concentrating lake water on a pre-combusted, pre-weighed GF/F filter. The filters were dried at 60° C for at least 24 hours and then reweighed.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: volatile suspended solids (measured); 
+Units: milligrams/liter; 
+Observation Category: laboratory analysis; 
+Sampling Instrument: n/a; 
+Sampling and Analyzing Method: Volatile Suspended Solids were determined by combusting total suspended solids filters at 450 °C and calculating the mass lost.; 
+Data Quality Method: Expert review.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: sample depth (category) (measured); 
+Units: categorical description; 
+Observation Category: in situ; 
+Sampling Instrument: n/a; 
+Sampling and Analyzing Method: Scum, surface, mid, or bottom sampling depth.  Scum indicates sampling in top ~10 cm of water column; surface indicates sample from ~50 cm of of water depth..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+        </gmd:LI_Lineage>
+      </gmd:lineage>
+    </gmd:DQ_DataQuality>
+  </gmd:dataQualityInfo>
+  <gmi:acquisitionInformation>
+    <gmi:MI_AcquisitionInformation>
+      <gmi:platform>
+        <gmi:MI_Platform>
+          <gmi:identifier gco:nilReason="unknown"/>
+          <gmi:description>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/platform/details/9403" xlink:actuate="onRequest">SMALL BOAT</gmx:Anchor>
+          </gmi:description>
+          <gmi:instrument gco:nilReason="unknown"/>
+        </gmi:MI_Platform>
+      </gmi:platform>
+    </gmi:MI_AcquisitionInformation>
+  </gmi:acquisitionInformation>
+</gmi:MI_Metadata>

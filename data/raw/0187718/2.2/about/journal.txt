@@ -1,0 +1,141 @@
+*****************************************************************
+Journal for accession number:  0187718
+Created on:                    2020-03-25 18:10:18 UTC
+By:                            Jonathan Jackson, National Centers for Environmental Information
+
+Source: Lacey Mason, NOAA/OAR/GLERL, submitted data and metadata to NCEI in
+submission package AB7TCR via Send2NCEI (S2N).
+
+Actions: An automated procedure copied the files from the submission package
+into this accession. A metadata record in ISO 19115-2 XML format was also
+generated from the information provided by the submitter and was copied into
+this accession.
+
+Version2.2:  The file, lake_erie_habs_field_sampling_results_2012_2018, was replaced with a file
+named lake_erie_habs_field_sampling_results_2012_2018_v2.  The New file has 3 decimal places in 
+column ac versus the old file that contains only 2 decimal places for that column.
+See 2-email.txt for details.
+
+Files:
+
+about/ 
+This directory contains files created by NCEI staff and processing, including
+'negotiable' information between NCEI staff and the data provider.
+
+0187718_lonlat.txt - 
+  Contains sample locations for these data.  Each row contains the geographical
+  position where these data were collected (longitude in the left column and
+  latitude in the right column, both in degrees).  NCEI may have corrected 
+  geographic positions that seemed to be in error when generating this file.  
+  However, NCEI did not change the original data files under the directory 
+  data/0-data/.
+
+0187718_map.jpg - 
+  Sample location map for these data.
+
+0-email.txt -
+  Email communicating with submitter an error with the start date found in
+  in the start date and title.
+  
+1-email.txt - 
+  Email communicating with submitter several errors identified with the position
+  data and the submitter sending a corrected data file.
+
+AB7TCR-confirmation_email.txt -
+  Email from the Send2NCEI web application to Lacey Mason, NOAA/OAR/GLERL,
+  confirming that NCEI has received the submission information package.
+
+AB7TCR-report.txt -
+  Automatically generated report containing information about the automated
+  processing of this accession and provider-specific metadata. This report
+  is intended for use by the Data Content Manager assigned to this
+  accession.
+
+data/0-data/
+This directory contains files in their original format as downloaded to NCEI.
+
+data/1-data/
+This directory contains files that were converted by NCEI from their 
+originally submitted format under the 0-data/ directory to an archival 
+format.
+
+lake_erie_habs_field_sampling_results_2012_2018.csv
+  Comma-separated value (CSV) file that NCEI converted from Microsoft 
+  Excel files in 0-data/.  There is one CSV file for each Excel spreadsheet.
+
+The following is a summary of the differences between the data files in this
+revision of this accession and the previous revision:
+
+Removed files:1
+Updated files:0
+New files:2
+
+Removed files:
+
+/data/0-data/lake_erie_habs_field_sampling_results_2012_2018.csv
+
+New files:
+
+/data/0-data/lake_erie_habs_field_sampling_results_2012_2018_v2
+/about/2-email.txt
+
+*****************************************************************
+Journal for accession number:  0187718
+Created on:                    2019-04-22 18:10:18 UTC
+By:                            Jonathan Jackson, National Centers for Environmental Information
+
+Source: Lacey Mason, NOAA/OAR/GLERL, submitted data and metadata to NCEI in
+submission package AB7TCR via Send2NCEI (S2N).
+
+Actions: An automated procedure copied the files from the submission package
+into this accession. A metadata record in ISO 19115-2 XML format was also
+generated from the information provided by the submitter and was copied into
+this accession.
+
+Files:
+
+about/ 
+This directory contains files created by NCEI staff and processing, including
+'negotiable' information between NCEI staff and the data provider.
+
+0187718_lonlat.txt - 
+  Contains sample locations for these data.  Each row contains the geographical
+  position where these data were collected (longitude in the left column and
+  latitude in the right column, both in degrees).  NCEI may have corrected 
+  geographic positions that seemed to be in error when generating this file.  
+  However, NCEI did not change the original data files under the directory 
+  data/0-data/.
+
+0187718_map.jpg - 
+  Sample location map for these data.
+
+0-email.txt -
+  Email communicating with submitter an error with the start date found in
+  in the start date and title.
+  
+1-email.txt - 
+  Email communicating with submitter several errors identified with the position
+  data and the submitter sending a corrected data file.
+
+AB7TCR-confirmation_email.txt -
+  Email from the Send2NCEI web application to Lacey Mason, NOAA/OAR/GLERL,
+  confirming that NCEI has received the submission information package.
+
+AB7TCR-report.txt -
+  Automatically generated report containing information about the automated
+  processing of this accession and provider-specific metadata. This report
+  is intended for use by the Data Content Manager assigned to this
+  accession.
+
+data/0-data/
+This directory contains files in their original format as downloaded to NCEI.
+
+data/1-data/
+This directory contains files that were converted by NCEI from their 
+originally submitted format under the 0-data/ directory to an archival 
+format.
+
+lake_erie_habs_field_sampling_results_2012_2018.csv
+  Comma-separated value (CSV) file that NCEI converted from Microsoft 
+  Excel files in 0-data/.  There is one CSV file for each Excel spreadsheet.
+  

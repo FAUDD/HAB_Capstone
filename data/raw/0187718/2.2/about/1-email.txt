@@ -1,0 +1,39 @@
+Lacey Mason - NOAA Federal <lacey.mason@noaa.gov> Mon, Apr 22, 2019 at 4:06 PM
+To: Jonathan Jackson - NOAA Affiliate <jonathan.jackson@noaa.gov>
+Here you go!
+Lacey Mason
+National Oceanic and Atmospheric Administration
+Great Lakes Environmental Research Laboratory
+4840 South State Rd. | Ann Arbor, MI 48108
+734-741-2280 | lacey.mason@noaa.gov
+www.glerl.noaa.gov
+Follow us on:
+Sign up to receive our eNews!
+On Mon, Apr 22, 2019 at 4:01 PM Jonathan Jackson - NOAA Affiliate <jonathan.jackson@noaa.gov> 
+wrote:
+Lacey,
+That is not an issue, however I will need you to send the .csv file with the corrected positions 
+applied as I am not allowed to edit the data files.
+thank you,
+Jonathan
+On Fri, Apr 19, 2019 at 1:25 PM Lacey Mason - NOAA Federal <lacey.mason@noaa.gov> wrote:
+We should have caught those! Here are the created locations...
+Row 40 WE8 41.8369 -83.3662
+Row 161 WE8 41.8347 -83.3626
+Row 267 WE4 41.8268 -83.194
+On Wednesday, April 17, 2019, Jonathan Jackson - NOAA Affiliate <jonathan.jackson@noaa.gov> 
+wrote:
+Lacey,
+When preparing the map for accession 0187718 I discovered what I believe to be a few 
+discrepancies in the sample position data.
+Row 40 WE8 49.8369 -83.3662
+Row 161 WE8 875.7333 -83.3626
+Row 267 WE4 41.8268 -88.194
+Please review these positions and let me know if they are correct as they are or if I 
+need to correct them.
+Thank you,
+4/23/2019 National Oceanic and Atmospheric Administration Mail - Re: Accession 0187718 
+position data question
+https://mail.google.com/mail/u/0?ik=8fef716e8f&view=pt&search=all&permthid=thread-
+a%3Ar-3673668371950979662%7Cmsg-f%3A1631546084467…
+Jonatha

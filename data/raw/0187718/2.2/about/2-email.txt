@@ -1,0 +1,28 @@
+Update to existing NCEI accession 0187718 (Lake Erie)
+1 message
+Lacey Mason - NOAA Federal <lacey.mason@noaa.gov>	
+Thu, Mar 19, 2020 at 8:35 AM
+To: NODC.DataOfficer@noaa.gov
+Cc: Jonathan Jackson - NOAA Affiliate 
+<Jonathan.Jackson@noaa.gov>
+One column of data included only two, instead of 
+three decimal places.  Please revise NCEI accession 
+0187718 with the attached file.
+
+
+Thank you,
+
+
+
+
+Lacey Mason
+
+National Oceanic and Atmospheric Administration
+
+Great Lakes Environmental Research Laboratory
+
+4840 South State Rd. | Ann Arbor, MI 48108
+
+734-741-2280 | lacey.mason@noaa.gov
+
+www.glerl.noaa.gov

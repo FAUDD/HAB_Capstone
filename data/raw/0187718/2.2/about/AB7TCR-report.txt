@@ -1,0 +1,54 @@
+The submitter provided the following profile information:
+Name: Lacey Mason
+Organization: NOAA/OAR/GLERL
+Phone: 734-741-2280
+DeliveryPoint: 4840 S. State Road
+City: Ann Arbor
+AdministrativeArea: MI
+PostalCode: 48108
+
+Contributors:
+Name: NOAA GLERL Data Manager
+Organization: US DOC; NOAA; OAR; Great Lakes Environmental Research Laboratory (Great Lakes Environmental Research Laboratory - GLERL)
+Institutions_id: 1552
+Email: oar.glerl.data@noaa.gov
+Role: pointOfContact
+
+Name: Reagan Errera
+Organization: US DOC; NOAA; OAR; Great Lakes Environmental Research Laboratory (Great Lakes Environmental Research Laboratory - GLERL)
+Institutions_id: 1552
+Email: reagan.errera@noaa.gov
+Role: pointOfContact
+
+Name: Casey Godwin
+Organization: Cooperative Institute for Great Lakes Research (CIGLR - University of Michigan)
+Email: cgodwin@umich.edu
+Role: pointOfContact
+
+The following non-ATDB metadata was provided:
+Suggested Author List: Burtner, Ashley; Palladino, Danna; Kitchens, Christine; Fyffe, Deanna; Johengen, Tom; Stuart, Dack; Cooperative Institute for Great Lakes Research, University of Michigan; Fanslow, David; Gossiaux, Duane; National Oceanic and Atmospheric Administration; Great Lakes Environmental Research Laboratory 
+Related Funding Agency: US Environmental Protection Agency (institutions_id 1418)
+datatypes-0: TEMPERATURE - WATER [WATER TEMPERATURE]
+datatypes-1: BEAM ATTENUATION
+datatypes-10: total suspended solids
+datatypes-11: volatile suspended solids
+datatypes-12: sample depth (category)
+datatypes-2: particulate mycrosystin
+datatypes-3: dissolved microcystin
+datatypes-4: extracted phycocyanin
+datatypes-5: CHLOROPHYLL A - extracted
+datatypes-6: total dissolved phosphorus
+datatypes-7: soluble reactive phosphorus
+datatypes-8: nitrate + nitrite content
+datatypes-9: colored dissolved organic material absorbance at 400nm
+insttypes-1: SBE 19plus V2 SeaCAT Profiler CTD
+insttypes-10: n/a
+insttypes-2: Hach 2100AN Turbidimeter
+insttypes-3: Abraxis ELISA kit
+insttypes-4: Turner Designs Aquafluor 8000-010
+insttypes-5: Turner Designs 10-AU Fluorometer
+insttypes-6: Seal QuAAtro or Seal AA3
+insttypes-7: Perkin Elmer UV/VIS spectrophotometer Lambda 35
+insttypes-8: Carlo-Erba model 1110 CHN Elemental Analyzer
+insttypes-9: Shimadzu TOC-5000 Total Organic Carbon Analyzer
+projects-0: Great Lakes Restoration Initiative
