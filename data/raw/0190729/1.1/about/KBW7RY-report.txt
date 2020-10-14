@@ -1,0 +1,44 @@
+The submitter provided the following profile information:
+Name: Lacey Mason
+Organization: NOAA/OAR/GLERL
+Phone: 734-741-2280
+DeliveryPoint: 4840 S. State Road
+City: Ann Arbor
+AdministrativeArea: MI
+PostalCode: 48108
+
+Contributors:
+Name: NOAA GLERL Data Manager
+Organization: US DOC; NOAA; OAR; Great Lakes Environmental Research Laboratory (Great Lakes Environmental Research Laboratory - GLERL)
+Institutions_id: 1552
+Email: oar.glerl.data@noaa.gov
+Role: pointOfContact
+
+Name: Reagan Errera
+Organization: US DOC; NOAA; OAR; Great Lakes Environmental Research Laboratory (Great Lakes Environmental Research Laboratory - GLERL)
+Institutions_id: 1552
+Email: reagan.errera@noaa.gov
+Role: pointOfContact
+
+Name: Casey Godwin
+Organization: Cooperative Institute for Great Lakes Research (CIGLR - University of Michigan)
+Email: cgodwin@umich.edu
+Role: pointOfContact
+
+The following non-ATDB metadata was provided:
+Suggested Author List: Cooperative Institute for Great Lakes Research, University of Michigan; National Oceanic and Atmospheric Administration Great Lakes Environmental Research Laboratory
+Related Funding Agency: US Environmental Protection Agency (institutions_id 1418)
+datatypes-0: wind speed - maximum
+datatypes-1: specific conductivity
+datatypes-2: organic dissolved oxygen saturation
+datatypes-3: organic dissolved oxygen
+datatypes-4: phycocyanin
+datatypes-5: fluorescent dissolved organic matter
+datatypes-6: phycoerythrin
+datatypes-7: phycocyanin
+datatypes-8: colored dissolved organic matter
+insttypes-0: Airmar WS-200WX
+insttypes-1: YSI EXO2
+insttypes-2: Turner C6
+insttypes-3: Seabird/Wetlabs CycleP
+projects-0: Great Lakes Restoration Initiative; US Environmental Protection Agency

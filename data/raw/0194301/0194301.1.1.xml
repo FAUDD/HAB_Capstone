@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accession manifest_version="2">
+  <head>
+    <id>0194301</id>
+    <version>1.1</version>
+    <timestamp>2019-08-05 19:17:17+00</timestamp>
+    <host>yams</host>
+    <directory>/nodc/archive/arc0142/0194301/1.1/</directory>
+    <file_count>20</file_count>
+    <byte_count>14330474</byte_count>
+  </head>
+  <body>
+    <files>
+      <file>
+        <path>NCEI-Readme.txt</path>
+        <digest algorithm="md5">e91932714ba31f21222c897c53a16b96</digest>
+        <digest algorithm="sha1">82edb6b02edde6773d1dbf60f0daa14dd0a2399a</digest>
+        <digest algorithm="sha256">8a28ff0cfd348380edf08df45dffd3af0f7b21e36693b33c2caacf099fc00e47</digest>
+        <digest algorithm="sha384">5f34016a6e2d1509b8a30b4831c1a216df54bb1e865cea0fb6a1ce6f94ac19c39f8abea4ce4fd1d2fc9dbbcc808a7158</digest>
+        <digest algorithm="sha512">3ef7e6ffc7c31d8f016ae4c3654e4476ffebdeef8984c1cca0da3cd3b8410e5b19b0d985d06ecd58609ddce2f39a6add62c08580e018351ab2827c4b06da39c2</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>1847</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2018-06-07 19:47:08+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348079</inode>
+      </file>
+      <file>
+        <path>about</path>
+        <digest algorithm="md5">d41d8cd98f00b204e9800998ecf8427e</digest>
+        <digest algorithm="sha1">da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+        <digest algorithm="sha256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+        <digest algorithm="sha384">38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+        <digest algorithm="sha512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+        <type_category>irregular</type_category>
+        <type>directory</type>
+        <permissions>drwxrwxr-x</permissions>
+        <linkcount>2</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>4096</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2019-08-05 17:58:48+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348077</inode>
+      </file>
+      <file>
+        <path>about/0194301_lonlat.txt</path>
+        <digest algorithm="md5">8bf6e2a788654f9c99cb1eaf960e95f3</digest>
+        <digest algorithm="sha1">d6686cb374484ba02d651924936fc82dc9cbc7ee</digest>
+        <digest algorithm="sha256">830cfdfc411fadc04aedc64e953b4d76eb4aa76e08d6b5ab1fa25803625fdc7b</digest>
+        <digest algorithm="sha384">17b281be7065510a9d949e6c180e6f303fc5ac91a0175e29b91a5591fec7f04e49d1a64777f0fc247a057bf32a3bba36</digest>
+        <digest algorithm="sha512">fcf3d319f5710b2860be42fc28f582a4bdbb37eca026adecda1d5995fd84d9fec2a6aa11acbe1670e8056f1ccb0007d72084de32c71675f52d0421dc6f4aece1</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>15</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2019-08-05 15:34:54+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348081</inode>
+      </file>
+      <file>
+        <path>about/0194301_map.jpg</path>
+        <digest algorithm="md5">c75a95d1877c6f432cd05484029c37b4</digest>
+        <digest algorithm="sha1">3edaed709589e48def48971601b4331a466bb91d</digest>
+        <digest algorithm="sha256">1d59e3b2ac5920416c9808f429821559d7a390213631159e0aa2e5d7baeee060</digest>
+        <digest algorithm="sha384">5de2a9039381d5f0a2dfeb9b0ee87a9135eaa4204f9246bdff46e2335051c31a044e80269461871595ec9d49fb3cee87</digest>
+        <digest algorithm="sha512">275d3b1a7afb5177e1e83fd7626e7bb3cdee9df283c2538a0840a88147331ae09b1a0144707ed140400a032355803660a39d0dc0c320bf3d1c9cdfd4fdef8350</digest>
+        <type_category>regular</type_category>
+        <type>binary</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>127186</size>
+        <blksize>32768</blksize>
+        <blocks>256</blocks>
+        <modtime>2019-08-05 15:35:04+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348082</inode>
+      </file>
+      <file>
+        <path>about/RWYE6D-confirmation_email.txt</path>
+        <digest algorithm="md5">9200d0d2e8a10923cae4072c28c24de5</digest>
+        <digest algorithm="sha1">394fa1c5dbf6df9ac6aecfb9e385abcfb1ac96d8</digest>
+        <digest algorithm="sha256">208ca854a335f5bbd12f89753af2e5f8a2e7a18dba02830295ed013a37b4da42</digest>
+        <digest algorithm="sha384">afd3f91eeb7855df531db7104ce313a6c59dd6a8dfac76af4f677291e9021654bd35a578a307c2bf8c85a0cbb3b7c8dc</digest>
+        <digest algorithm="sha512">8258e1999fcd7cb8698d4c8648f2bc0166693a37b59fe7510492c5582f7e00da590ebd84403696c35af9ff0b3c422763a7b42d7d4aab88d1eea2485e3fcb0a48</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>1983</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2019-07-01 18:15:18+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348083</inode>
+      </file>
+      <file>
+        <path>about/RWYE6D-report.txt</path>
+        <digest algorithm="md5">e599713e0415d2076f9d09b471f670bf</digest>
+        <digest algorithm="sha1">c22413e5238800746a6424e2159a994ca63cd29f</digest>
+        <digest algorithm="sha256">fb52442e6e81b1b12dc423b63a30bb07bbda8735995f4c476e0ac1b4eb0ad514</digest>
+        <digest algorithm="sha384">7d399a33db15f63c0a3a59705cc758be6ba75aeb3f9c5ba0482a12c6d5e44a87cc9972418476d0f17d94cfbde37fcc08</digest>
+        <digest algorithm="sha512">8bef5a8b20f3630eb84427a0e6913fc46d228a66ad5f6b7e0adb92c9435f9dfed56b72bce19d6e41bf094a780dcd3a8d50797d3d5f9dc49ab1f2a56b3c135e20</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>1699</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2019-08-05 14:50:23+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348084</inode>
+      </file>
+      <file>
+        <path>about/journal.txt</path>
+        <digest algorithm="md5">e69f46e3bc02940c2d5fcbdb83412a31</digest>
+        <digest algorithm="sha1">070f0c307fadfa045211392f67a3770282f1bc2e</digest>
+        <digest algorithm="sha256">c05c18c954669236157ab8d96e6f729b662c79ccc6de8a745c8025e0c4c0f2b2</digest>
+        <digest algorithm="sha384">1ba0de0cd8c2517108ef821b3fba78b7c7b438a59488ea779aab41bc924cf447fbcde6bfbd5150c37da2b3b1df6221dd</digest>
+        <digest algorithm="sha512">b17b594edf840c5cb73ee5485c6d0006559a82530fd29765ea97868636de443888ed122e870712066fb963980b4111e0f1e426a3f36d2686ef762e1a38d2adab</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>1796</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2019-08-05 18:59:32+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348085</inode>
+      </file>
+      <file>
+        <path>data</path>
+        <digest algorithm="md5">d41d8cd98f00b204e9800998ecf8427e</digest>
+        <digest algorithm="sha1">da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+        <digest algorithm="sha256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+        <digest algorithm="sha384">38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+        <digest algorithm="sha512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+        <type_category>irregular</type_category>
+        <type>directory</type>
+        <permissions>drwxrwxr-x</permissions>
+        <linkcount>3</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>4096</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2019-08-05 14:50:15+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348078</inode>
+      </file>
+      <file>
+        <path>data/0-data</path>
+        <digest algorithm="md5">d41d8cd98f00b204e9800998ecf8427e</digest>
+        <digest algorithm="sha1">da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+        <digest algorithm="sha256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+        <digest algorithm="sha384">38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+        <digest algorithm="sha512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+        <type_category>irregular</type_category>
+        <type>directory</type>
+        <permissions>drwxrwxr-x</permissions>
+        <linkcount>2</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>4096</size>
+        <blksize>32768</blksize>
+        <blocks>8</blocks>
+        <modtime>2019-08-05 14:50:18+00</modtime>
+        <changetime>2019-08-05 19:17:16+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348080</inode>
+      </file>
+      <file>
+        <path>data/0-data/RWYE6D-ISO-19115-2.xml</path>
+        <digest algorithm="md5">95a3641d5fab0a274311cd4634aab163</digest>
+        <digest algorithm="sha1">a9d16900f8086c217e45e09632aafb71983ca0e4</digest>
+        <digest algorithm="sha256">c1009a6dc3c12441e148b9f151a77be12e926c336b6dd7fa930d9f3cb858508c</digest>
+        <digest algorithm="sha384">d7b3c54525a8dc876433b50d29e0c59a39d4c3ea33ecda83aec10e5177a4e9aa24f41dedc594623eeec276e923b4ed0d</digest>
+        <digest algorithm="sha512">bc444ca51a94bb605ab3d1e7871ee2b92ffc762bcffc37307c381e08570b51a56dbcfe1cc98df47be15fe57145fb105d12ed967251184be3bb84f6e2182b5ece</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>47185</size>
+        <blksize>32768</blksize>
+        <blocks>96</blocks>
+        <modtime>2019-07-01 18:15:15+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348086</inode>
+      </file>
+      <file>
+        <path>data/0-data/WE08_2014_annual_summary.csv</path>
+        <digest algorithm="md5">3c6427fdf106ecc126fce45b3f39e027</digest>
+        <digest algorithm="sha1">fd6925704414f9d653ddc0f0c94b67336a7039bf</digest>
+        <digest algorithm="sha256">d7aeacd0913f7ec66a2cee4049e3317a35da2bc322335b2709d8e83978740e12</digest>
+        <digest algorithm="sha384">e6f2d9d4de3d2e615436d78a87c916d41bae39838e988470f0c6d12b58c6255642343cfe0b0eb1ec65337943dec28122</digest>
+        <digest algorithm="sha512">dc53a943f34d2af4756a5069ceb732237e39f3001102719baa2a028769bc37545d1c9968961795e3ea489c32f3d1162788d690f073d3a2db3a45c5e6a39526fb</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>1672672</size>
+        <blksize>32768</blksize>
+        <blocks>3272</blocks>
+        <modtime>2019-07-01 18:02:51+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348087</inode>
+      </file>
+      <file>
+        <path>data/0-data/WE08_2014_annual_summary_phosphate.csv</path>
+        <digest algorithm="md5">51e9ecf735902a00c798aace1bf307ee</digest>
+        <digest algorithm="sha1">37a18228b54272cca947ac2547ef7b05bdb072c2</digest>
+        <digest algorithm="sha256">53f7979c5a2cae7d07b811aea4774f76f9735c54e14bd7ef18f24255f7533086</digest>
+        <digest algorithm="sha384">eb607f7873a07d5af7210e552d5d6d4cc710d47f2e05629eb4fad37f2d85916030f0820b4e3f2662b16c309a40942a52</digest>
+        <digest algorithm="sha512">a21ed942878f493e7cbd3d135b907b33f6c4c2f7a5f42ccfcf2b24eafcb57656d84e3d7ebbaca1fa5314fd1e94bb2a5bb0f16b1ae55667819c7dd7ce29b9e565</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>63062</size>
+        <blksize>32768</blksize>
+        <blocks>128</blocks>
+        <modtime>2019-07-01 18:02:52+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348088</inode>
+      </file>
+      <file>
+        <path>data/0-data/WE08_2015_annual_summary.csv</path>
+        <digest algorithm="md5">c63de25bb5b0c7bbaf4a57949057fd2e</digest>
+        <digest algorithm="sha1">ae6425729ec5516bdc95de8ea11c6fb30915e992</digest>
+        <digest algorithm="sha256">7f80cbc0fa4973a776203205a3a0edbf6181420d89670a5c92242fc3d0605c31</digest>
+        <digest algorithm="sha384">9c1b9eb5252c010534c8e6ef6fbc79d5d1704a4df094d8b9b3107b2636da27fbd7407fc04a1fbba15a11a9fd13dc9c87</digest>
+        <digest algorithm="sha512">79922cef4056cdc6c987c0d20c25256aac1bc7c8c90611d7dfe427c3b6b53f0727d41bdeab892e04ac73073c3e51ef630438c362e75e3cb7ceb0ae7b08516606</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>2134137</size>
+        <blksize>32768</blksize>
+        <blocks>4176</blocks>
+        <modtime>2019-07-01 18:02:52+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348089</inode>
+      </file>
+      <file>
+        <path>data/0-data/WE08_2015_annual_summary_phosphate.csv</path>
+        <digest algorithm="md5">8af264f27c12f7e5fce80297e159425d</digest>
+        <digest algorithm="sha1">c42fe57950606e7968410708a19cb1baec8283b6</digest>
+        <digest algorithm="sha256">6fc389940594c5a2e7db8953d5ceccd4de4cdfe86ce601b89e2212290f4e160d</digest>
+        <digest algorithm="sha384">e4435c765fe406e25ab0ad39ee550a76cceadd16c4e122422bc44e8aac35036af5a16227a7f70a7c1f704f5e480b8b05</digest>
+        <digest algorithm="sha512">84288a14053523c25f9fdb780d217261dbb380eb436945a0c7df7c88cfc907917d477ffcf4a6015d0662c6f4e0e5a1292d09d19e115f181ae9ff1620a654cdc6</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>104903</size>
+        <blksize>32768</blksize>
+        <blocks>208</blocks>
+        <modtime>2019-07-01 18:02:53+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348090</inode>
+      </file>
+      <file>
+        <path>data/0-data/WE08_2016_annual_summary.csv</path>
+        <digest algorithm="md5">5b93d61344c554a4c232c7ff13dd8daa</digest>
+        <digest algorithm="sha1">8a8986706a00b7999ef2aa0633a5946997413ef1</digest>
+        <digest algorithm="sha256">4f079ae8cacf4f2caa5ee9cb17a2db7ee784746a6271a49d96210b3d2c61a256</digest>
+        <digest algorithm="sha384">872f2d86ccff43d22298bcb360f0e8d9b2b4fee068839e277f169f54776a02df45ef6fa3578455000f356da284699e26</digest>
+        <digest algorithm="sha512">23d1629e8efa1b513378e1a117a27fda4234c7a25f11719fb245d0ef214f2012b0a739b8b43195af0ca8ed62475465d118a0503467533280772c035c9443a15b</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>3299589</size>
+        <blksize>32768</blksize>
+        <blocks>6448</blocks>
+        <modtime>2019-07-01 18:02:54+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:16+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348091</inode>
+      </file>
+      <file>
+        <path>data/0-data/WE08_2016_annual_summary_phosphate.csv</path>
+        <digest algorithm="md5">7b0ac2eecd11f6dc8a8d7015c6ae29d9</digest>
+        <digest algorithm="sha1">eb1ae688f945f06596ad632f3f1de9c0744195e4</digest>
+        <digest algorithm="sha256">75df98b569190dc3c93a0b22b64fbb783b8cbeb1aa543e42dcbeb66279fb1d4c</digest>
+        <digest algorithm="sha384">a4baf207b2d55f701e4dfad5c0c8ba21406253cf1b2073c97357d45c08079ffe8e88e7012ecfc892eee6304080b96ab9</digest>
+        <digest algorithm="sha512">43d99e5f2c3c15ba5b340ff03685e50dc80b34c38a2e781d8cda8631ca2d70a1003886a7ab568537873ebf30601a151ba1893801fcbf8a216d2a06174d44e5d1</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>113081</size>
+        <blksize>32768</blksize>
+        <blocks>224</blocks>
+        <modtime>2019-07-01 18:02:54+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:17+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348092</inode>
+      </file>
+      <file>
+        <path>data/0-data/WE08_2017_annual_summary.csv</path>
+        <digest algorithm="md5">690f7e82f5331de635409aac3641c306</digest>
+        <digest algorithm="sha1">1e9a11dcdddf1a84fb7f8d1ac89342f97710c8d2</digest>
+        <digest algorithm="sha256">0f4b7fffeef2e3ffe06794bdfbcbc80fc8c5af9b06b593eecc02f0d042425f68</digest>
+        <digest algorithm="sha384">f1d2e1261ce8e2655499a054ee7a29b99ab4e78c43b97e0fefb838021e73576de2f9de11005af3289070c43c2583ec1a</digest>
+        <digest algorithm="sha512">80db894eb623df1200f652954368438a332bb1d46d4d6e060d96709f3e84608f5a43d3ee00679130edb3dda568bfc387381223ed7d5571a15191a57c8c263a1b</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>3342122</size>
+        <blksize>32768</blksize>
+        <blocks>6528</blocks>
+        <modtime>2019-07-01 18:02:57+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:17+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348093</inode>
+      </file>
+      <file>
+        <path>data/0-data/WE08_2017_annual_summary_phosphate.csv</path>
+        <digest algorithm="md5">cb9e879f556f47b3c32b2f417422fdcf</digest>
+        <digest algorithm="sha1">235ba1a52d5e91ba423aa409fa5a049eefff5804</digest>
+        <digest algorithm="sha256">4067fcc16e42aca78aaef37c46a08d2423ff29441b8413f0c30717b35257a2e0</digest>
+        <digest algorithm="sha384">7a0843a01db345fdfd6e940aac63ad6b166a0bfb51cc6a4be85be4cc1a72134a46afa95029dc9794cb440a01358011cf</digest>
+        <digest algorithm="sha512">81ea473d4b8242cbbb692ce0ebae59397c86ce9b9531eca4d1b95bded1c973f0731334d56e074aaf29384f811f40b6d587945b75de18917dac224518c99e72f7</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>57745</size>
+        <blksize>32768</blksize>
+        <blocks>120</blocks>
+        <modtime>2019-07-01 18:02:57+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:17+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348094</inode>
+      </file>
+      <file>
+        <path>data/0-data/WE08_2018_annual_summary.csv</path>
+        <digest algorithm="md5">76923fb9a50e91ada2a3cd876ce70e8c</digest>
+        <digest algorithm="sha1">ea95c192f0e04bef5dc04daf7c867f031306418c</digest>
+        <digest algorithm="sha256">7b94b95f460420e193ad37636d47305ada08287eabb0cfe19ab4715a2f4d212b</digest>
+        <digest algorithm="sha384">267fbe618f90141c9aecb5b960e73f3462c377e140399a38247b64db2e608fc10dc465d1b776e1370b49ff96a1d5d1f0</digest>
+        <digest algorithm="sha512">49b2a48790c5765f505cdf10b8a43922e4a27bb5b4d1128ffb9db7c852a7b2e043ef700dbb1d926bac6f5d2836656dadd5063d760472eae7c2bf698aa6926527</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>3264100</size>
+        <blksize>32768</blksize>
+        <blocks>6376</blocks>
+        <modtime>2019-07-01 18:02:59+00</modtime>
+        <changetime>2019-08-05 19:17:15+00</changetime>
+        <acctime>2019-08-05 19:17:17+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348095</inode>
+      </file>
+      <file>
+        <path>data/0-data/WE08_2018_annual_summary_phosphate.csv</path>
+        <digest algorithm="md5">d915e2b2b3f4287cb2d78cf6b244c7b9</digest>
+        <digest algorithm="sha1">647304af48d24ed819e606c206b5490411e7d2a7</digest>
+        <digest algorithm="sha256">76cd2f8a415f249da4f74fc65a30ae5c1caa4e6201718c65bfc59eb07e4a3301</digest>
+        <digest algorithm="sha384">6e2fa0196e3e37535ae9c780ad2d5011f0bbd1ca35cf4644ac5f2a15be4749a211aabef9be08ca439f3e9a3203e28dc8</digest>
+        <digest algorithm="sha512">377cfd84a0b99753d676c65330018e9680c659c4783e8c374de2c0fe2d92f3feace1746e9a330d058412edf019bdcd3b44c6f8d2b2bafd9b0a66f3bd28a0393a</digest>
+        <type_category>regular</type_category>
+        <type>text</type>
+        <permissions>-rw-rw-r--</permissions>
+        <linkcount>1</linkcount>
+        <user>root</user>
+        <group>root</group>
+        <size>85064</size>
+        <blksize>32768</blksize>
+        <blocks>168</blocks>
+        <modtime>2019-07-01 18:02:59+00</modtime>
+        <changetime>2019-08-05 19:17:16+00</changetime>
+        <acctime>2019-08-05 19:17:17+00</acctime>
+        <sumtime>2019-08-05 19:17:17+00</sumtime>
+        <inode>61348096</inode>
+      </file>
+    </files>
+  </body>
+</accession>

@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmi:MI_Metadata xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmi https://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
+  <gmd:fileIdentifier>
+    <gco:CharacterString>0LT4BP</gco:CharacterString>
+  </gmd:fileIdentifier>
+  <gmd:language>
+    <gco:CharacterString>eng; USA</gco:CharacterString>
+  </gmd:language>
+  <gmd:characterSet>
+    <gmd:MD_CharacterSetCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+  </gmd:characterSet>
+  <gmd:hierarchyLevel>
+    <gmd:MD_ScopeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+  </gmd:hierarchyLevel>
+  <gmd:hierarchyLevelName>
+    <gco:CharacterString>dataset</gco:CharacterString>
+  </gmd:hierarchyLevelName>
+  <gmd:contact>
+    <gmd:CI_ResponsibleParty>
+      <gmd:individualName>
+        <gco:CharacterString>Lacey Mason</gco:CharacterString>
+      </gmd:individualName>
+      <gmd:organisationName>
+        <gmx:Anchor>NOAA/OAR/GLERL</gmx:Anchor>
+      </gmd:organisationName>
+      <gmd:contactInfo>
+        <gmd:CI_Contact>
+          <gmd:phone>
+            <gmd:CI_Telephone>
+              <gmd:voice>
+                <gco:CharacterString>734-741-2280</gco:CharacterString>
+              </gmd:voice>
+              <gmd:facsimile>
+                <gco:CharacterString/>
+              </gmd:facsimile>
+            </gmd:CI_Telephone>
+          </gmd:phone>
+          <gmd:address>
+            <gmd:CI_Address>
+              <gmd:deliveryPoint>
+                <gco:CharacterString>4840 S. State Road</gco:CharacterString>
+              </gmd:deliveryPoint>
+              <gmd:deliveryPoint>
+                <gco:CharacterString/>
+              </gmd:deliveryPoint>
+              <gmd:city>
+                <gco:CharacterString>Ann Arbor</gco:CharacterString>
+              </gmd:city>
+              <gmd:administrativeArea>
+                <gco:CharacterString>MI</gco:CharacterString>
+              </gmd:administrativeArea>
+              <gmd:postalCode>
+                <gco:CharacterString>48108</gco:CharacterString>
+              </gmd:postalCode>
+              <gmd:country>
+                <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/country/details/73" xlink:actuate="onRequest">UNITED STATES</gmx:Anchor>
+              </gmd:country>
+            </gmd:CI_Address>
+          </gmd:address>
+        </gmd:CI_Contact>
+      </gmd:contactInfo>
+      <gmd:role>
+        <gmd:CI_RoleCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
+      </gmd:role>
+    </gmd:CI_ResponsibleParty>
+  </gmd:contact>
+  <gmd:dateStamp>
+    <gco:Date>2019-05-10</gco:Date>
+  </gmd:dateStamp>
+  <gmd:metadataStandardName>
+    <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+  </gmd:metadataStandardName>
+  <gmd:metadataStandardVersion>
+    <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
+  </gmd:metadataStandardVersion>
+  <gmd:identificationInfo>
+    <gmd:MD_DataIdentification>
+      <gmd:citation>
+        <gmd:CI_Citation>
+          <gmd:title>
+            <gco:CharacterString>Physical, chemical, and biological water quality data collected from moored buoy WE02, Lake Erie in the Great Lakes region from 2014-05-22 to 2018-10-15</gco:CharacterString>
+          </gmd:title>
+          <gmd:date gco:nilReason="unknown"/>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>NOAA GLERL Data Manager</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/institution/details/1552" xlink:actuate="onRequest">US DOC; NOAA; OAR; Great Lakes Environmental Research Laboratory (Great Lakes Environmental Research Laboratory - GLERL)</gmx:Anchor>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>oar.glerl.data@noaa.gov</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Reagan Errera</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/institution/details/1552" xlink:actuate="onRequest">US DOC; NOAA; OAR; Great Lakes Environmental Research Laboratory (Great Lakes Environmental Research Laboratory - GLERL)</gmx:Anchor>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>reagan.errera@noaa.gov</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Casey Godwin</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gmx:Anchor>Cooperative Institute for Great Lakes Research (CIGLR - University of Michigan)</gmx:Anchor>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>cgodwin@umich.edu</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+        </gmd:CI_Citation>
+      </gmd:citation>
+      <gmd:abstract>
+        <gco:CharacterString>Physical, chemical, and biological water quality data collected at moored buoy WE02 in western basin of Lake Erie collected between 2012 and 2018 to support the understanding of harmful algal blooms (HABs).  In situ data were collected for the following parameters, wind speed mean, wind speed maximum, air temperature, barometric pressure, depth, water temperature, specific conductivity, pH, turbidity, dissolved oxygen, chlorophyll-a, phycocyanin, dissolved organic matter, nitrate, and phosphate. Table cells with "NAN" means no data available.</gco:CharacterString>
+      </gmd:abstract>
+      <gmd:purpose>
+        <gco:CharacterString>These data were collected by the National Oceanic and Atmospheric Administration Great Lakes Environmental Research Laboratory (NOAA-GLERL) and the Cooperative Institute for Great Lakes Research (CIGLR) to support NOAA-GLERL’s operational development of the Lake Erie harmful algal bloom (HAB) forecasts and to directly monitor microcystin concentrations within the ecosystem.</gco:CharacterString>
+      </gmd:purpose>
+      <gmd:credit>
+        <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/institution/details/1418" xlink:actuate="onRequest">Related Funding Agency: US Environmental Protection Agency (US EPA - US EPA)</gmx:Anchor>
+      </gmd:credit>
+      <gmd:credit>
+        <gmx:Anchor>Suggested Author List: Cooperative Institute for Great Lakes Research, University of Michigan; National Oceanic and Atmospheric Administration Great Lakes Environmental Research Laboratory</gmx:Anchor>
+      </gmd:credit>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>Great Lakes Restoration Initiative; US Environmental Protection Agency</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="project">project</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Related Projects and/or Programs</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/seaname/details/145" xlink:actuate="onRequest">Great Lakes</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place">place</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>NODC SEA AREA NAMES THESAURUS</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>wind speed - maximum</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>specific conductivity</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>organic dissolved oxygen saturation</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>organic dissolved oxygen</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>phycocyanin</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>fluorescent dissolved organic matter</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>phycoerythrin</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>phycocyanin</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>colored dissolved organic matter</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Data Types</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/439" xlink:actuate="onRequest">WIND SPEED - AVERAGE</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/432" xlink:actuate="onRequest">WIND DIRECTION - AVERAGE</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/3" xlink:actuate="onRequest">AIR TEMPERATURE</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/38" xlink:actuate="onRequest">BAROMETRIC PRESSURE</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/111" xlink:actuate="onRequest">DEPTH - SENSOR</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/373" xlink:actuate="onRequest">WATER TEMPERATURE</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/257" xlink:actuate="onRequest">pH</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/393" xlink:actuate="onRequest">turbidity</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/83" xlink:actuate="onRequest">CHLOROPHYLL A</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/393" xlink:actuate="onRequest">turbidity</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/83" xlink:actuate="onRequest">CHLOROPHYLL A</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/111" xlink:actuate="onRequest">DEPTH - SENSOR</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/datatype/details/263" xlink:actuate="onRequest">phosphate</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>NODC DATA TYPES THESAURUS</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>Airmar WS-200WX</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>YSI EXO2</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>Turner C6</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor>Seabird/Wetlabs CycleP</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="instrument">instrument</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Sampling Instruments</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>in situ</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="obstype">obstype</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Observation Category</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:language>
+        <gco:CharacterString>eng; USA</gco:CharacterString>
+      </gmd:language>
+      <gmd:topicCategory>
+        <gmd:MD_TopicCategoryCode>oceans</gmd:MD_TopicCategoryCode>
+      </gmd:topicCategory>
+      <gmd:topicCategory>
+        <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+      </gmd:topicCategory>
+      <gmd:extent>
+        <gmd:EX_Extent id="boundingExtent">
+          <gmd:geographicElement>
+            <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+              <gmd:westBoundLongitude>
+                <gco:Decimal>-83.4</gco:Decimal>
+              </gmd:westBoundLongitude>
+              <gmd:eastBoundLongitude>
+                <gco:Decimal>-83.3</gco:Decimal>
+              </gmd:eastBoundLongitude>
+              <gmd:southBoundLatitude>
+                <gco:Decimal>41.7</gco:Decimal>
+              </gmd:southBoundLatitude>
+              <gmd:northBoundLatitude>
+                <gco:Decimal>41.8</gco:Decimal>
+              </gmd:northBoundLatitude>
+            </gmd:EX_GeographicBoundingBox>
+          </gmd:geographicElement>
+          <gmd:temporalElement>
+            <gmd:EX_TemporalExtent>
+              <gmd:extent>
+                <gml:TimePeriod gml:id="boundingTemporalExtent">
+                  <gml:beginPosition>2014-05-22</gml:beginPosition>
+                  <gml:endPosition>2018-10-15</gml:endPosition>
+                </gml:TimePeriod>
+              </gmd:extent>
+            </gmd:EX_TemporalExtent>
+          </gmd:temporalElement>
+        </gmd:EX_Extent>
+      </gmd:extent>
+    </gmd:MD_DataIdentification>
+  </gmd:identificationInfo>
+  <gmd:contentInfo>
+    <gmd:MD_FeatureCatalogueDescription>
+      <gmd:includedWithDataset>
+        <gco:Boolean>true</gco:Boolean>
+      </gmd:includedWithDataset>
+      <gmd:featureTypes>
+        <gco:LocalName>wind speed - maximum (meters per second)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>WIND SPEED - AVERAGE (meters per second)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>WIND DIRECTION - AVERAGE (degrees)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>AIR TEMPERATURE (degrees Celsius)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>BAROMETRIC PRESSURE (millibar)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>DEPTH - SENSOR (meter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>WATER TEMPERATURE (degrees Celsius)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>specific conductivity (millisiemens per centimeter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>pH (pH)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>turbidity (NTU)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>organic dissolved oxygen saturation (percent)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>organic dissolved oxygen (milligram per liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>CHLOROPHYLL A (RFU)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>phycocyanin (RFU)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>fluorescent dissolved organic matter (RFU)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>turbidity (NTU)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>phycoerythrin (RFU)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>phycocyanin (RFU)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>CHLOROPHYLL A (RFU)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>colored dissolved organic matter (ppb)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>DEPTH - SENSOR (meter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureTypes>
+        <gco:LocalName>phosphate (micrograms per liter)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureCatalogueCitation gco:nilReason="unknown"/>
+    </gmd:MD_FeatureCatalogueDescription>
+  </gmd:contentInfo>
+  <gmd:dataQualityInfo>
+    <gmd:DQ_DataQuality>
+      <gmd:scope>
+        <gmd:DQ_Scope>
+          <gmd:level>
+            <gmd:MD_ScopeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+          </gmd:level>
+          <gmd:extent xlink:href="#boundingExtent"/>
+        </gmd:DQ_Scope>
+      </gmd:scope>
+      <gmd:lineage xlink:title="References">
+        <gmd:LI_Lineage>
+          <gmd:statement>
+            <gco:CharacterString>https://www.glerl.noaa.gov/res/HABs_and_Hypoxia/rtMonSQL.php
+https://doi.org/10.7289/V5TT4P7R</gco:CharacterString>
+          </gmd:statement>
+        </gmd:LI_Lineage>
+      </gmd:lineage>
+    </gmd:DQ_DataQuality>
+  </gmd:dataQualityInfo>
+  <gmd:dataQualityInfo>
+    <gmd:DQ_DataQuality>
+      <gmd:scope>
+        <gmd:DQ_Scope>
+          <gmd:level>
+            <gmd:MD_ScopeCode codeList="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+          </gmd:level>
+        </gmd:DQ_Scope>
+      </gmd:scope>
+      <gmd:lineage>
+        <gmd:LI_Lineage>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: wind speed - maximum (measured); 
+Units: meters per second; 
+Observation Category: in situ; 
+Sampling Instrument: Airmar WS-200WX; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: WIND SPEED - AVERAGE (measured); 
+Units: meters per second; 
+Observation Category: in situ; 
+Sampling Instrument: Airmar WS-200WX; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: WIND DIRECTION - AVERAGE (measured); 
+Units: degrees; 
+Observation Category: in situ; 
+Sampling Instrument: Airmar WS-200WX; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: AIR TEMPERATURE (measured); 
+Units: degrees Celsius; 
+Observation Category: in situ; 
+Sampling Instrument: Airmar WS-200WX; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: BAROMETRIC PRESSURE (measured); 
+Units: millibar; 
+Observation Category: in situ; 
+Sampling Instrument: Airmar WS-200WX; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: DEPTH - SENSOR (measured); 
+Units: meter; 
+Observation Category: in situ; 
+Sampling Instrument: YSI EXO2; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: WATER TEMPERATURE (measured); 
+Units: degrees Celsius; 
+Observation Category: in situ; 
+Sampling Instrument: YSI EXO2; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: specific conductivity (measured); 
+Units: millisiemens per centimeter; 
+Observation Category: in situ; 
+Sampling Instrument: YSI EXO2; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: pH (measured); 
+Units: pH; 
+Observation Category: in situ; 
+Sampling Instrument: YSI EXO2; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: turbidity (measured); 
+Units: NTU; 
+Observation Category: in situ; 
+Sampling Instrument: YSI EXO2; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: organic dissolved oxygen saturation (measured); 
+Units: percent; 
+Observation Category: in situ; 
+Sampling Instrument: YSI EXO2; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: organic dissolved oxygen (measured); 
+Units: milligram per liter; 
+Observation Category: in situ; 
+Sampling Instrument: YSI EXO2; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: CHLOROPHYLL A (measured); 
+Units: RFU; 
+Observation Category: in situ; 
+Sampling Instrument: YSI EXO2; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: phycocyanin (measured); 
+Units: RFU; 
+Observation Category: in situ; 
+Sampling Instrument: YSI EXO2; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: fluorescent dissolved organic matter (measured); 
+Units: RFU; 
+Observation Category: in situ; 
+Sampling Instrument: YSI EXO2; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: turbidity (measured); 
+Units: NTU; 
+Observation Category: in situ; 
+Sampling Instrument: Turner C6; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: phycoerythrin (measured); 
+Units: RFU; 
+Observation Category: in situ; 
+Sampling Instrument: Turner C6; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: phycocyanin (measured); 
+Units: RFU; 
+Observation Category: in situ; 
+Sampling Instrument: Turner C6; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: CHLOROPHYLL A (measured); 
+Units: RFU; 
+Observation Category: in situ; 
+Sampling Instrument: Turner C6; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: colored dissolved organic matter (measured); 
+Units: ppb; 
+Observation Category: in situ; 
+Sampling Instrument: Turner C6; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: DEPTH - SENSOR (measured); 
+Units: meter; 
+Observation Category: in situ; 
+Sampling Instrument: Turner C6; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Parameter or Variable: phosphate (measured); 
+Units: micrograms per liter; 
+Observation Category: in situ; 
+Sampling Instrument: Seabird/Wetlabs CycleP; 
+Sampling and Analyzing Method: In situ sensor; 
+Data Quality Method: Integrated Ocean Observing System (IOOS) Quality Assurance of Real-Time Oceanographic Data (QARTOD) quality control test and flags applied following procedures in the Manual for
+Real-Time Quality Control
+of Dissolved Nutrients
+Observations version 1.1, February 2018. Values for quality control flags can be found in the columns with analyte name and ending in "_flags".  Four required flags are listed for including, gap test, syntax test, location test, and gross range test.  Flag values are 1 = pass; 3 = suspect; 4 = failed..</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+        </gmd:LI_Lineage>
+      </gmd:lineage>
+    </gmd:DQ_DataQuality>
+  </gmd:dataQualityInfo>
+  <gmi:acquisitionInformation>
+    <gmi:MI_AcquisitionInformation>
+      <gmi:platform>
+        <gmi:MI_Platform>
+          <gmi:identifier gco:nilReason="unknown"/>
+          <gmi:description>
+            <gmx:Anchor xlink:href="https://www.nodc.noaa.gov/cgi-bin/OAS/prd/platform/details/10698" xlink:actuate="onRequest">Moored Buoy</gmx:Anchor>
+          </gmi:description>
+          <gmi:instrument gco:nilReason="unknown"/>
+        </gmi:MI_Platform>
+      </gmi:platform>
+    </gmi:MI_AcquisitionInformation>
+  </gmi:acquisitionInformation>
+</gmi:MI_Metadata>

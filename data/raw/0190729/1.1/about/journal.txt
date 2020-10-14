@@ -1,0 +1,43 @@
+*****************************************************************
+Journal for accession number:  0190729
+Created on:                    2019-06-24 18:55:23 UTC
+By:                            Madalyn Newman, National Centers for Environmental Information
+
+Source: Lacey Mason, NOAA/OAR/GLERL, submitted data and metadata to NCEI in
+submission package KBW7RY via Send2NCEI (S2N).
+
+Actions: An automated procedure copied the files from the submission package
+into this accession. A metadata record in ISO 19115-2 XML format was also
+generated from the information provided by the submitter and was copied into
+this accession.
+
+Files:
+
+about/ 
+This directory contains files created by NCEI staff and processing, including
+'negotiable' information between NCEI staff and the data provider.
+
+KBW7RY-confirmation_email.txt -
+  Email from the Send2NCEI web application to Lacey Mason, NOAA/OAR/GLERL,
+  confirming that NCEI has received the submission information package.
+
+KBW7RY-report.txt -
+  Automatically generated report containing information about the automated
+  processing of this accession and provider-specific metadata. This report
+  is intended for use by the Data Content Manager assigned to this
+  accession.
+  
+0190729_lonlat.txt - 
+  Contains sample locations for these data.  Each row contains the geographical
+  position where these data were collected (longitude in the left column and
+  latitude in the right column, both in degrees).  NCEI may have corrected 
+  geographic positions that seemed to be in error when generating this file.  
+  However, NCEI did not change the original data files under the directory 
+  data/0-data/.
+
+0190729_map.jpg - 
+  Sample location map for these data.
+
+data/0-data/
+This directory contains files in their original format as downloaded to NCEI.
+
