@@ -1,10 +1,40 @@
+from folium import Map, Marker, Icon
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+
+
+def resampled_counts(df, datecol, resample='M', cols=None, figsize=(15,3),
+                       title=None, width=15, alpha=0.5, subplots=False, fcn='count'):
+    
+    ''' Resamples a dataframe over a given timeframe, and plots counts of the columns as 
+    overlapping bar charts. The datecol input must contain datetimes. The cols parameter 
+    should be a list of columns. Can aggregate using a different function by setting the fcn parameter'''
+    
+    dfc = df.resample(resample, on=datecol).agg(fcn)
+    idx = dfc.index
+    if cols == None:
+        cols = df.columns
+    fig, ax = plt.subplots(figsize=figsize)
+    for i, col in enumerate(cols):
+        ax.bar(idx, dfc[col], width=width, alpha=alpha, label=col, 
+               color='C{0}'.format(i))
+    ax.xaxis_date()
+    ax.set_xlabel('Date')
+    ax.set_ylabel('Measurement Counts')
+    ax.legend(loc='best')
+    ax.set_title(title)
+
+
+
 def mapsites(df, col=None):
     
     """Maps site measurements and labels them by site name and date. If a numeric column name is optionally entered then the
       icons will be color coded according to value quartile, with green as the lowest quartile up to dark red as the top
       quartile."""
     
-    m = folium.Map(location=[41.76, -83.26])
+    m = Map(location=[41.76, -83.26])
     if col:
         crange = df[col].describe()
     for i in df.index:
@@ -23,9 +53,9 @@ def mapsites(df, col=None):
                 color = 'red'
             else:
                 color = 'darkred'
-            folium.Marker([lat, long], popup=(lat,long), tooltip=(site, date), icon=folium.Icon(color=color)).add_to(m)
+            Marker([lat, long], popup=(lat,long), tooltip=(site, date), icon=Icon(color=color)).add_to(m)
         else:
-            folium.Marker([lat, long], popup=(lat,long), tooltip=(site, date)).add_to(m)
+            Marker([lat, long], popup=(lat,long), tooltip=(site, date)).add_to(m)
             
     return m
 
@@ -117,4 +147,20 @@ def bs_hist(df1, df2, col, name1='df1', name2='df2'):
           np.quantile(df2_bs, 0.025), 'to', np.quantile(df2_bs, 0.975))
     
     
+def hist_zoom(df, col, cutoff=None, bins=None):
     
+    ''' Displays a histogram of an entire column next to a histogram of all values below a 
+    certain cutoff. If no cutoff is specified only the total histogram is shown.'''
+    
+    if cutoff == None:
+        figsize=(15,3)
+        plt.hist(df[col], bins=bins)
+        plt.title(col)
+    else:
+        fig, ax = plt.subplots(1, 2, figsize=(15,3))
+        ax[0].hist(df[col], bins=bins)
+        ax[0].set_title('Total Distribution')
+        filter_df = df[df[col] < cutoff]
+        ax[1].hist(filter_df[col], bins=bins)
+        ax[1].set_title('Partial Distribution - Zoom')
+        fig.suptitle(col, fontsize=14)

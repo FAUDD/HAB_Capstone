@@ -1,3 +1,17 @@
+import numpy as np
+import pandas as pd
+
+
+def bs_samples(array, size=10000):
+    
+    """Generates a bootstrapped sample of a given size"""
+    
+    bs = np.empty(size)
+    for i in range(size):
+        bs[i] = np.sum(np.random.choice(array, size=len(array))) / len(array)
+    return bs
+
+
 def diff_mean_test(df1, df2, col, size=10000):
     
     """Calculates the probability of a mean difference at least as large as the observed 
