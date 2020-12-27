@@ -1,7 +1,19 @@
 HAB_Capstone
 ==============================
 
-Analysis of HABs on the Great Lakes
+# Predictive Modeling of Harmful Algal Blooms in the Western Basin of Lake Erie
+
+![erie_hab](./reports/figures/erie_hab.png)
+
+The goal of this project is to investigate the relationships between water quality and environmental conditions 
+and the presence of algal blooms using water quality data from the Great Lakes Environmental Research Laboratory. 
+This project was performed as the first of two independent capstones for Springboards Data Science Program. The project files
+were generated using the cookiecutter data science structure. However, as an initial capstone project you will find many sections
+of the file structure have gone unused. Particularly relevant to this project are:
+
+1. the reports directory, where you can find the project proposal and final report documenting findings
+2. the notebooks directory, which contains jupyter notebooks for every stage of the project from data wrangling to modeling
+3. the data directory, where raw and processed forms of the data are stored. 
 
 Project Organization
 ------------
